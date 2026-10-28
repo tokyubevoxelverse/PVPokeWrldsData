@@ -1,6 +1,6 @@
 {
- "updated": 1793224833,
- "trainers": 8,
+ "updated": 1793225202,
+ "trainers": 9,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -112,6 +112,19 @@
     "MZ": {
      "wins": 0,
      "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 9,
+   "name": "Doughnut99 bd8a",
+   "wins": 0,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 1
     }
    }
   }
