@@ -1,5 +1,5 @@
 {
- "updated": 1793220700,
+ "updated": 1793220933,
  "trainers": 4,
  "worlds": {
   "MZ": "Mesagoza",
@@ -25,18 +25,6 @@
   },
   {
    "rank": 2,
-   "name": "Bulbaboi",
-   "wins": 0,
-   "losses": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 3,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 0,
@@ -48,8 +36,20 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 3,
    "name": "༺NecroEclipse༻",
+   "wins": 0,
+   "losses": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 4,
+   "name": "Bulbaboi",
    "wins": 0,
    "losses": 0,
    "worlds": {
