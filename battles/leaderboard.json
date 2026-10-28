@@ -1,5 +1,5 @@
 {
- "updated": 1793229729,
+ "updated": 1793231926,
  "trainers": 10,
  "worlds": {
   "MZ": "Mesagoza",
@@ -39,20 +39,20 @@
   },
   {
    "rank": 3,
-   "name": "GoofyLeopard7263 c9d6",
+   "name": "TheKittyEmpurr",
    "wins": 1,
-   "losses": 0,
+   "losses": 1,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 1,
-     "losses": 0
+     "losses": 1
     }
    }
   },
   {
    "rank": 4,
-   "name": "TheKittyEmpurr",
+   "name": "GoofyLeopard7263 c9d6",
    "wins": 1,
    "losses": 1,
    "tier": 0,
