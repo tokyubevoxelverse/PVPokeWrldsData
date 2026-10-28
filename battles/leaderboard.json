@@ -1,5 +1,5 @@
 {
- "updated": 1793225202,
+ "updated": 1793225920,
  "trainers": 9,
  "worlds": {
   "MZ": "Mesagoza",
@@ -26,20 +26,20 @@
   },
   {
    "rank": 2,
-   "name": "Stonedgamer55",
+   "name": "TheKittyEmpurr",
    "wins": 1,
-   "losses": 0,
+   "losses": 1,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 1,
-     "losses": 0
+     "losses": 1
     }
    }
   },
   {
    "rank": 3,
-   "name": "TheKittyEmpurr",
+   "name": "Stonedgamer55",
    "wins": 1,
    "losses": 1,
    "tier": 0,
