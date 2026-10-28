@@ -1,6 +1,6 @@
 {
- "updated": 1793220933,
- "trainers": 4,
+ "updated": 1793221662,
+ "trainers": 5,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -50,6 +50,18 @@
   {
    "rank": 4,
    "name": "Bulbaboi",
+   "wins": 0,
+   "losses": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 5,
+   "name": "Stonedgamer55",
    "wins": 0,
    "losses": 0,
    "worlds": {
