@@ -10,10 +10,13 @@ GITHUB_BRANCH = "main"
 [[d1_databases]]
 binding = "DB"
 database_name = "pvpoke-battles"
-database_id = "PASTE-THE-ID-FROM-D1-CREATE"
+database_id = "5cedd52e-1cad-43f8-88cc-b7f4ba886f47"
 
 # anything a submission left unpublished goes out within 5 minutes
 [triggers]
 crons = ["*/5 * * * *"]
 
 # secrets (never in this file): npx wrangler secret put BATTLE_KEY / GITHUB_TOKEN
+
+workers_dev = true
+preview_urls = false
