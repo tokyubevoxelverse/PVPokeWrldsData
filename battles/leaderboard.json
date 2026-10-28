@@ -1,6 +1,6 @@
 {
- "updated": 1793223633,
- "trainers": 6,
+ "updated": 1793223789,
+ "trainers": 7,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -79,6 +79,19 @@
   {
    "rank": 6,
    "name": "Raisi",
+   "wins": 0,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 7,
+   "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
    "tier": 0,
