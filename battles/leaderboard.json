@@ -1,5 +1,5 @@
 {
- "updated": 1793223789,
+ "updated": 1793223908,
  "trainers": 7,
  "worlds": {
   "MZ": "Mesagoza",
@@ -13,19 +13,6 @@
  "entries": [
   {
    "rank": 1,
-   "name": "Bulbaboi",
-   "wins": 1,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 2,
    "name": "H2OCrow",
    "wins": 1,
    "losses": 2,
@@ -34,6 +21,19 @@
     "MZ": {
      "wins": 1,
      "losses": 2
+    }
+   }
+  },
+  {
+   "rank": 2,
+   "name": "Bulbaboi",
+   "wins": 1,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 3
     }
    }
   },
