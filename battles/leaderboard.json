@@ -1,6 +1,6 @@
 {
- "updated": 1793212533,
- "trainers": 0,
+ "updated": 1793220533,
+ "trainers": 1,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -10,5 +10,18 @@
   "MC": "Magma Cavern",
   "IF": "Ilex Forest"
  },
- "entries": []
+ "entries": [
+  {
+   "rank": 1,
+   "name": "H2OCrow",
+   "wins": 0,
+   "losses": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  }
+ ]
 }
