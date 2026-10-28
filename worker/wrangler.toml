@@ -1,0 +1,19 @@
+name = "pvpoke-battles"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+
+[vars]
+GITHUB_REPO = "tokyubevoxelverse/PVPokeWrldsData"
+GITHUB_BRANCH = "main"
+
+# made by: npx wrangler d1 create pvpoke-battles   (paste the database_id it prints here)
+[[d1_databases]]
+binding = "DB"
+database_name = "pvpoke-battles"
+database_id = "PASTE-THE-ID-FROM-D1-CREATE"
+
+# anything a submission left unpublished goes out within 5 minutes
+[triggers]
+crons = ["*/5 * * * *"]
+
+# secrets (never in this file): npx wrangler secret put BATTLE_KEY / GITHUB_TOKEN

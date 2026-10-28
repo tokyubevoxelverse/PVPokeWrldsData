@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PV Pokémon Worlds</title>
+<meta name="description" content="The PV Pokémon Worlds on VRChat - and the battle trainers' leaderboard across all of them.">
+<style>
+  :root {
+    --bg: #0d1016; --panel: #161b24; --panel-2: #1d2430; --line: #2a3342; --text: #eef2f7; --muted: #9aa6b8;
+    --gold: #f6c945; --silver: #c9d3df; --bronze: #d9925a; --accent: #ff5c5c; --win: #5fd38d; --loss: #ff7b7b;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: var(--gold); }
+
+  /* ---- the worlds, cycling */
+  .hero { position: relative; height: min(78vh, 720px); min-height: 420px; overflow: hidden; background: #000; }
+  .slide { position: absolute; inset: 0; opacity: 0; transition: opacity 1.4s ease; }
+  .slide.on { opacity: 1; }
+  .slide img { width: 100%; height: 100%; object-fit: cover; transform: scale(1.06); transition: transform 7s linear; }
+  .slide.on img { transform: scale(1); }
+  .slide.card { display: grid; place-items: center; background: radial-gradient(circle at 50% 40%, #2f3f6b, #101626 70%); }
+  .slide.card span { font-size: clamp(42px, 9vw, 110px); font-weight: 800; letter-spacing: .04em; color: #f8e7a4; text-shadow: 0 4px 30px rgba(246,201,69,.45); }
+  .shade { position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(13,16,22,.15) 0%, rgba(13,16,22,0) 35%, rgba(13,16,22,.85) 88%, var(--bg) 100%); pointer-events: none; }
+  .title { position: absolute; left: 0; right: 0; bottom: 48px; padding: 0 24px; text-align: center; }
+  .title h1 { margin: 0; font-size: clamp(34px, 6vw, 68px); line-height: 1.05; font-weight: 800; letter-spacing: .01em; text-shadow: 0 3px 18px rgba(0,0,0,.6); }
+  .title p { margin: 10px 0 0; color: #dbe3ee; font-size: clamp(15px, 2.2vw, 19px); text-shadow: 0 2px 10px rgba(0,0,0,.7); }
+  .world-name { display: inline-block; margin-top: 16px; padding: 6px 14px; border-radius: 999px; background: rgba(13,16,22,.7); border: 1px solid var(--line); font-weight: 600; font-size: 14px; letter-spacing: .03em; }
+  .dots { display: flex; gap: 8px; justify-content: center; margin-top: 14px; }
+  .dots button { width: 10px; height: 10px; border-radius: 50%; border: 0; padding: 0; background: rgba(255,255,255,.35); cursor: pointer; }
+  .dots button.on { background: var(--gold); }
+
+  main { max-width: 980px; margin: 0 auto; padding: 8px 16px 64px; }
+  h2 { font-size: 26px; margin: 40px 0 6px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+
+  /* ---- the leaderboard */
+  .podium { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 18px; }
+  .podium .p { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 16px; text-align: center; }
+  .podium .medal { font-size: 13px; font-weight: 800; letter-spacing: .1em; }
+  .podium .p1 .medal { color: var(--gold); } .podium .p2 .medal { color: var(--silver); } .podium .p3 .medal { color: var(--bronze); }
+  .podium .n { font-size: 19px; font-weight: 700; margin: 6px 0 2px; overflow-wrap: anywhere; }
+  .podium .wl { color: var(--muted); font-variant-numeric: tabular-nums; }
+  .tools { display: flex; gap: 10px; align-items: center; margin-bottom: 10px; flex-wrap: wrap; }
+  .tools input { flex: 1 1 220px; min-width: 0; background: var(--panel); border: 1px solid var(--line); color: var(--text); border-radius: 10px; padding: 10px 12px; font-size: 15px; }
+  .tools .meta { color: var(--muted); font-size: 14px; }
+  .tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 14px; }
+  table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+  th, td { padding: 11px 14px; text-align: left; white-space: nowrap; }
+  th { background: var(--panel-2); color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; }
+  tr + tr td { border-top: 1px solid var(--line); }
+  td.rank { width: 56px; color: var(--muted); font-weight: 700; }
+  td.name { font-weight: 600; white-space: normal; overflow-wrap: anywhere; }
+  td.w { color: var(--win); font-weight: 700; } td.l { color: var(--loss); }
+  td.worlds { color: var(--muted); font-size: 13px; white-space: normal; }
+  .empty { padding: 28px; text-align: center; color: var(--muted); }
+
+  /* ---- how to */
+  .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+  .step { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 16px; }
+  .step b { display: block; margin-bottom: 4px; }
+  .note { color: var(--muted); font-size: 14px; margin-top: 12px; }
+  .worlds { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+  .worlds figure { margin: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .worlds img { display: block; width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+  .worlds .ph { aspect-ratio: 4/3; display: grid; place-items: center; background: radial-gradient(circle at 50% 40%, #2f3f6b, #101626 70%); color: #f8e7a4; font-weight: 800; }
+  .worlds figcaption { padding: 8px 10px; font-weight: 600; font-size: 14px; }
+  footer { color: var(--muted); font-size: 13px; text-align: center; padding: 30px 16px; border-top: 1px solid var(--line); }
+  @media (max-width: 560px) { .podium { grid-template-columns: 1fr; } td.worlds, th.worlds { display: none; } }
+</style>
+</head>
+<body>
+<header class="hero" id="hero">
+  <div class="shade"></div>
+  <div class="title">
+    <h1>PV Pokémon Worlds</h1>
+    <p>Pokémon battle worlds on VRChat - and every trainer's record across all of them.</p>
+    <span class="world-name" id="worldName">&nbsp;</span>
+    <div class="dots" id="dots"></div>
+  </div>
+</header>
+
+<main>
+  <h2>Battle Trainers Leaderboard</h2>
+  <p class="sub">Pokémon battles between trainers in every PV Pokémon World, added together. Ranked by wins.</p>
+  <div class="podium" id="podium"></div>
+  <div class="tools">
+    <input id="search" type="search" placeholder="Find a trainer..." autocomplete="off">
+    <span class="meta" id="meta"></span>
+  </div>
+  <div class="tablewrap">
+    <table>
+      <thead><tr><th>#</th><th>Trainer</th><th>Wins</th><th>Losses</th><th>Win rate</th><th class="worlds">Worlds</th></tr></thead>
+      <tbody id="rows"><tr><td colspan="6" class="empty">Loading the board...</td></tr></tbody>
+    </table>
+  </div>
+
+  <h2>Get on the board</h2>
+  <p class="sub">Your battles save in each world by themselves. To put them on the board:</p>
+  <div class="steps">
+    <div class="step"><b>1. Open Submit Your Stats</b>at the leaderboard in any PV Pokémon World.</div>
+    <div class="step"><b>2. Copy the link</b>it makes for you (your name, wins and losses, signed).</div>
+    <div class="step"><b>3. Paste it and press SUBMIT</b>in the URL field below it.</div>
+  </div>
+  <p class="note">Submitting needs <b>Allow Untrusted URLs</b> on in VRChat's settings. Seeing the board doesn't. Your display name and record become public.</p>
+
+  <h2>The worlds</h2>
+  <div class="worlds" id="worlds"></div>
+</main>
+
+<footer>PV Pokémon Worlds - fan-made VRChat worlds. Pokémon is © Nintendo, Creatures Inc. and GAME FREAK inc.</footer>
+
+<script>
+  const WORLDS = [
+    { name: "Mesagoza", img: null },
+    { name: "The Marine Tube", img: "img/worlds/marine-tube.jpg" },
+    { name: "Power Plant", img: "img/worlds/power-plant.jpg" },
+    { name: "Spear Pillar", img: "img/worlds/spear-pillar.jpg" },
+    { name: "Meteor Falls", img: "img/worlds/meteor-falls.jpg" },
+    { name: "Magma Cavern", img: "img/worlds/magma-cavern.jpg" },
+    { name: "Ilex Forest", img: "img/worlds/ilex-forest.jpg" },
+  ];
+
+  // ---- the worlds, cycling
+  const hero = document.getElementById("hero"), dots = document.getElementById("dots"), worldName = document.getElementById("worldName");
+  const slides = WORLDS.map((w, i) => {
+    const s = document.createElement("div");
+    s.className = "slide" + (w.img ? "" : " card");
+    if (w.img) { const im = new Image(); im.src = w.img; im.alt = w.name; im.loading = i < 2 ? "eager" : "lazy"; s.appendChild(im); }
+    else { const t = document.createElement("span"); t.textContent = w.name; s.appendChild(t); }
+    hero.insertBefore(s, hero.querySelector(".shade"));
+    const d = document.createElement("button"); d.setAttribute("aria-label", w.name); d.onclick = () => show(i, true); dots.appendChild(d);
+    return s;
+  });
+  let cur = -1, timer = null;
+  function show(i, user) {
+    if (cur >= 0) { slides[cur].classList.remove("on"); dots.children[cur].classList.remove("on"); }
+    cur = (i + slides.length) % slides.length;
+    slides[cur].classList.add("on"); dots.children[cur].classList.add("on");
+    worldName.textContent = WORLDS[cur].name;
+    if (user) { clearInterval(timer); timer = setInterval(() => show(cur + 1), 6000); }
+  }
+  show(0); timer = setInterval(() => show(cur + 1), 6000);
+
+  // the worlds' gallery
+  const gallery = document.getElementById("worlds");
+  for (const w of WORLDS) {
+    const f = document.createElement("figure");
+    if (w.img) { const im = new Image(); im.src = w.img; im.alt = w.name; im.loading = "lazy"; f.appendChild(im); }
+    else { const p = document.createElement("div"); p.className = "ph"; p.textContent = w.name; f.appendChild(p); }
+    const c = document.createElement("figcaption"); c.textContent = w.name; f.appendChild(c);
+    gallery.appendChild(f);
+  }
+
+  // ---- the leaderboard
+  let all = [], worldNames = {};
+  const rowsEl = document.getElementById("rows"), podium = document.getElementById("podium"), metaEl = document.getElementById("meta"), search = document.getElementById("search");
+  const pct = (w, l) => (w + l) ? Math.round(100 * w / (w + l)) + "%" : "-";
+  function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function render() {
+    const q = search.value.trim().toLowerCase();
+    const list = q ? all.filter((e) => e.name.toLowerCase().includes(q)) : all;
+    rowsEl.textContent = "";
+    if (!list.length) { const tr = el("tr"); const td = el("td", "empty", all.length ? "No trainer by that name yet." : "No trainers on the board yet - be the first!"); td.colSpan = 6; tr.appendChild(td); rowsEl.appendChild(tr); return; }
+    for (const e of list) {
+      const tr = el("tr");
+      tr.appendChild(el("td", "rank", e.rank));
+      tr.appendChild(el("td", "name", e.name));
+      tr.appendChild(el("td", "w", e.wins));
+      tr.appendChild(el("td", "l", e.losses));
+      tr.appendChild(el("td", "", pct(e.wins, e.losses)));
+      tr.appendChild(el("td", "worlds", Object.entries(e.worlds || {}).map(([k, v]) => (worldNames[k] || k) + " " + v.wins + "-" + v.losses).join(" · ")));
+      rowsEl.appendChild(tr);
+    }
+  }
+  function renderPodium() {
+    podium.textContent = "";
+    ["1ST", "2ND", "3RD"].forEach((m, i) => {
+      const e = all[i], p = el("div", "p p" + (i + 1));
+      p.appendChild(el("div", "medal", m));
+      p.appendChild(el("div", "n", e ? e.name : "-"));
+      p.appendChild(el("div", "wl", e ? e.wins + " W · " + e.losses + " L" : "open"));
+      podium.appendChild(p);
+    });
+  }
+  fetch("battles/leaderboard.json?t=" + Date.now()).then((r) => r.json()).then((d) => {
+    all = d.entries || []; worldNames = d.worlds || {};
+    metaEl.textContent = (d.trainers || 0) + " trainers" + (d.updated ? " · updated " + new Date(d.updated * 1000).toLocaleString() : "");
+    renderPodium(); render();
+  }).catch(() => { rowsEl.innerHTML = '<tr><td colspan="6" class="empty">The board couldn\'t be loaded - try again in a minute.</td></tr>'; });
+  search.addEventListener("input", render);
+</script>
+</body>
+</html>
