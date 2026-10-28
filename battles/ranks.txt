@@ -1,6 +1,6 @@
-PVPOKE-BATTLES|2|1793227155|10
-1|Stonedgamer55|2|1|0
-2|H2OCrow|2|2|0
+PVPOKE-BATTLES|2|1793229261|10
+1|H2OCrow|4|3|0
+2|Stonedgamer55|2|1|0
 3|GoofyLeopard7263 c9d6|1|0|0
 4|TheKittyEmpurr|1|1|0
 5|Bulbaboi|1|4|0
