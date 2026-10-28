@@ -1,8 +1,8 @@
-PVPOKE-BATTLES|1|1793226033|10
-1|H2OCrow|2|2|0
-2|GoofyLeopard7263 c9d6|1|0|0
-3|TheKittyEmpurr|1|1|0
-4|Stonedgamer55|1|1|0
+PVPOKE-BATTLES|1|1793227155|10
+1|Stonedgamer55|2|1|0
+2|H2OCrow|2|2|0
+3|GoofyLeopard7263 c9d6|1|0|0
+4|TheKittyEmpurr|1|1|0
 5|Bulbaboi|1|4|0
 6|ScriptWizard|0|0|0
 7|༺NecroEclipse༻|0|0|0

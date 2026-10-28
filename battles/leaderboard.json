@@ -1,5 +1,5 @@
 {
- "updated": 1793226033,
+ "updated": 1793227155,
  "trainers": 10,
  "worlds": {
   "MZ": "Mesagoza",
@@ -13,6 +13,19 @@
  "entries": [
   {
    "rank": 1,
+   "name": "Stonedgamer55",
+   "wins": 2,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 2,
    "name": "H2OCrow",
    "wins": 2,
    "losses": 2,
@@ -25,7 +38,7 @@
    }
   },
   {
-   "rank": 2,
+   "rank": 3,
    "name": "GoofyLeopard7263 c9d6",
    "wins": 1,
    "losses": 0,
@@ -38,21 +51,8 @@
    }
   },
   {
-   "rank": 3,
-   "name": "TheKittyEmpurr",
-   "wins": 1,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 1
-    }
-   }
-  },
-  {
    "rank": 4,
-   "name": "Stonedgamer55",
+   "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
    "tier": 0,
