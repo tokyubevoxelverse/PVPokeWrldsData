@@ -1,6 +1,6 @@
 {
- "updated": 1793220633,
- "trainers": 3,
+ "updated": 1793220700,
+ "trainers": 4,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -38,6 +38,18 @@
   {
    "rank": 3,
    "name": "ScriptWizard",
+   "wins": 0,
+   "losses": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 4,
+   "name": "༺NecroEclipse༻",
    "wins": 0,
    "losses": 0,
    "worlds": {
