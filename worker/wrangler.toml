@@ -1,6 +1,8 @@
 name = "pvpoke-battles"
 main = "src/index.js"
 compatibility_date = "2025-06-01"
+workers_dev = true
+preview_urls = false
 
 [vars]
 GITHUB_REPO = "tokyubevoxelverse/PVPokeWrldsData"
@@ -18,5 +20,3 @@ crons = ["*/5 * * * *"]
 
 # secrets (never in this file): npx wrangler secret put BATTLE_KEY / GITHUB_TOKEN
 
-workers_dev = true
-preview_urls = false

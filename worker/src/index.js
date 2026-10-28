@@ -4,10 +4,11 @@
 // presses SUBMIT, and VRChat opens it - that GET lands here.
 //
 //   GET /battles/submit?p=<payload>&s=<signature>   record a trainer's battle record from one world; answers in plain text
-//   GET /battles/top10                               the top 10 (the same text the worlds read from GitHub Pages)
+//   GET /battles/top10                               the top 10 (the same text the first worlds read from GitHub Pages)
+//   GET /battles/ranks                               everyone, ranked, with their ball rank (what the worlds read now)
 //   GET /battles/leaderboard.json                    everyone, for the website
 //
-// After a submission changes the board it republishes battles/top10.txt and battles/leaderboard.json to the GitHub Pages repo
+// After a submission changes the board it republishes battles/top10.txt, battles/ranks.txt and battles/leaderboard.json to the GitHub Pages repo
 // (at most once a minute; a cron trigger catches anything left over). The worlds read the board from GitHub Pages because
 // *.github.io is on VRChat's trusted list - nobody needs "Allow Untrusted URLs" just to see it.
 //
@@ -21,6 +22,14 @@ const AUTHOR = { name: "tokyubevoxelverse", email: "tokyubeverse@gmail.com" };
 const PUBLISH_EVERY = 60;            // seconds between republishes at most
 const MAX_AGE = 48 * 3600;           // a link older than this is refused (copy a fresh one)
 const MAX_TOTAL = 100000;
+// ball ranks: 0 Poke Ball, 1 Great Ball (50+ wins), 2 Ultra Ball (500+), 3 Master Ball (2500+ wins with losses under 10% of wins)
+const GREAT = 50, ULTRA = 500, MASTER = 2500, MASTER_LOSS_SHARE = 0.10;
+function tier(r) {
+  if (r.wins >= MASTER && r.losses < r.wins * MASTER_LOSS_SHARE) return 3;
+  if (r.wins >= ULTRA) return 2;
+  if (r.wins >= GREAT) return 1;
+  return 0;
+}
 
 export default {
   async fetch(req, env, ctx) {
@@ -28,6 +37,7 @@ export default {
     try {
       if (url.pathname === "/battles/submit") return text(await submit(url, env, ctx));
       if (url.pathname === "/battles/top10") return text(top10Text(await board(env)));
+      if (url.pathname === "/battles/ranks") return text(ranksText(await board(env)));
       if (url.pathname === "/battles/leaderboard.json") return json(leaderboardJson(await board(env)));
       if (url.pathname === "/") return text("PV Pokémon Worlds - battles leaderboard server. The board: https://tokyubevoxelverse.github.io/PVPokeWrldsData/");
       return new Response("not found", { status: 404, headers: cors() });
@@ -100,7 +110,15 @@ async function board(env) {
 
 function top10Text(rows) {
   const lines = ["PVPOKE-BATTLES|1|" + Math.floor(Date.now() / 1000) + "|" + rows.length];
-  rows.slice(0, 10).forEach((r, i) => lines.push((i + 1) + "|" + clean(r.name) + "|" + r.wins + "|" + r.losses));
+  rows.slice(0, 10).forEach((r, i) => lines.push((i + 1) + "|" + clean(r.name) + "|" + r.wins + "|" + r.losses + "|" + tier(r)));
+  return lines.join("\n") + "\n";
+}
+
+// everyone, best first: "PVPOKE-BATTLES|2|<updated>|<trainers>" then "rank|name|wins|losses|ball rank" - the worlds show the
+// top 10 and find your own line (by your name) for the YOUR PLACE row
+function ranksText(rows) {
+  const lines = ["PVPOKE-BATTLES|2|" + Math.floor(Date.now() / 1000) + "|" + rows.length];
+  rows.forEach((r, i) => lines.push((i + 1) + "|" + clean(r.name) + "|" + r.wins + "|" + r.losses + "|" + tier(r)));
   return lines.join("\n") + "\n";
 }
 
@@ -109,7 +127,7 @@ function leaderboardJson(rows) {
     updated: Math.floor(Date.now() / 1000),
     trainers: rows.length,
     worlds: WORLDS,
-    entries: rows.slice(0, 500).map((r, i) => ({ rank: i + 1, name: r.name, wins: r.wins, losses: r.losses, worlds: r.worlds })),
+    entries: rows.slice(0, 500).map((r, i) => ({ rank: i + 1, name: r.name, wins: r.wins, losses: r.losses, tier: tier(r), worlds: r.worlds })),
   };
 }
 
@@ -121,6 +139,7 @@ async function publish(env) {
   const rows = await board(env);
   const files = [
     { path: "battles/top10.txt", content: top10Text(rows) },
+    { path: "battles/ranks.txt", content: ranksText(rows) },
     { path: "battles/leaderboard.json", content: JSON.stringify(leaderboardJson(rows), null, 1) + "\n" },
   ];
   const repo = env.GITHUB_REPO, branch = env.GITHUB_BRANCH || "main";
