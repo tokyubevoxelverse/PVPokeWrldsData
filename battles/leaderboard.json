@@ -1,5 +1,5 @@
 {
- "updated": 1793223051,
+ "updated": 1793223633,
  "trainers": 6,
  "worlds": {
   "MZ": "Mesagoza",
@@ -16,6 +16,7 @@
    "name": "Bulbaboi",
    "wins": 1,
    "losses": 0,
+   "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 1,
@@ -28,6 +29,7 @@
    "name": "H2OCrow",
    "wins": 1,
    "losses": 2,
+   "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 1,
@@ -40,6 +42,7 @@
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 0,
+   "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 0,
@@ -52,6 +55,7 @@
    "name": "༺NecroEclipse༻",
    "wins": 0,
    "losses": 0,
+   "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 0,
@@ -64,6 +68,7 @@
    "name": "Stonedgamer55",
    "wins": 0,
    "losses": 0,
+   "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 0,
@@ -76,6 +81,7 @@
    "name": "Raisi",
    "wins": 0,
    "losses": 0,
+   "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 0,
