@@ -1,6 +1,6 @@
 {
- "updated": 1793220533,
- "trainers": 1,
+ "updated": 1793220633,
+ "trainers": 3,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -14,6 +14,30 @@
   {
    "rank": 1,
    "name": "H2OCrow",
+   "wins": 0,
+   "losses": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 2,
+   "name": "Bulbaboi",
+   "wins": 0,
+   "losses": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 3,
+   "name": "ScriptWizard",
    "wins": 0,
    "losses": 0,
    "worlds": {
