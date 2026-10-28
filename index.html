@@ -66,7 +66,9 @@
   .worlds img { display: block; width: 100%; aspect-ratio: 4/3; object-fit: cover; }
   .worlds .ph { aspect-ratio: 4/3; display: grid; place-items: center; background: radial-gradient(circle at 50% 40%, #2f3f6b, #101626 70%); color: #f8e7a4; font-weight: 800; }
   .worlds figcaption { padding: 8px 10px; font-weight: 600; font-size: 14px; }
-  footer { color: var(--muted); font-size: 13px; text-align: center; padding: 30px 16px; border-top: 1px solid var(--line); }
+  footer { color: var(--muted); font-size: 13px; text-align: center; padding: 30px 16px; border-top: 1px solid var(--line); max-width: 980px; margin: 0 auto; }
+  .notice { margin: 28px 0 0; padding: 14px 16px; border: 1px solid #5a4a1c; background: #221d0f; color: #f1e3b5; border-radius: 12px; font-size: 14.5px; }
+  .notice b { color: #ffe08a; }
   @media (max-width: 560px) { .podium { grid-template-columns: 1fr; } td.worlds, th.worlds { display: none; } }
 </style>
 </head>
@@ -82,6 +84,13 @@
 </header>
 
 <main>
+  <section class="notice" aria-label="Unofficial fan project">
+    <b>Unofficial fan project.</b> PV Pokémon Worlds are free, fan-made VRChat worlds. They are <b>not an official Pokémon game</b>
+    and are not made, endorsed, sponsored or approved by Nintendo, Game Freak, Creatures Inc. or The Pokémon Company. Pokémon and
+    all related names, characters and marks are trademarks of their respective owners. Nothing here is sold. We will comply
+    promptly with any notice from these companies - contact <a href="mailto:tokyubeverse@gmail.com">tokyubeverse@gmail.com</a>.
+  </section>
+
   <h2>Battle Trainers Leaderboard</h2>
   <p class="sub">Pokémon battles between trainers in every PV Pokémon World, added together. Ranked by wins.</p>
   <div class="podium" id="podium"></div>
@@ -109,7 +118,12 @@
   <div class="worlds" id="worlds"></div>
 </main>
 
-<footer>PV Pokémon Worlds - fan-made VRChat worlds. Pokémon is © Nintendo, Creatures Inc. and GAME FREAK inc.</footer>
+<footer>
+  PV Pokémon Worlds is an unofficial fan project and not an official Pokémon game. It is not affiliated with, endorsed, sponsored
+  or approved by Nintendo, Game Freak, Creatures Inc. or The Pokémon Company. Pokémon © Nintendo, Creatures Inc., GAME FREAK inc.
+  and The Pokémon Company; all trademarks belong to their owners. We will comply promptly with any notice from them -
+  <a href="mailto:tokyubeverse@gmail.com">tokyubeverse@gmail.com</a>.
+</footer>
 
 <script>
   const WORLDS = [
