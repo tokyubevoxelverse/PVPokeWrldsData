@@ -1,6 +1,6 @@
 {
- "updated": 1793211870,
- "trainers": 1,
+ "updated": 1793212533,
+ "trainers": 0,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -10,18 +10,5 @@
   "MC": "Magma Cavern",
   "IF": "Ilex Forest"
  },
- "entries": [
-  {
-   "rank": 1,
-   "name": "PVPoke Test",
-   "wins": 3,
-   "losses": 1,
-   "worlds": {
-    "MZ": {
-     "wins": 3,
-     "losses": 1
-    }
-   }
-  }
- ]
+ "entries": []
 }
