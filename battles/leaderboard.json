@@ -1,5 +1,5 @@
 {
- "updated": 1793229261,
+ "updated": 1793229333,
  "trainers": 10,
  "worlds": {
   "MZ": "Mesagoza",
@@ -78,19 +78,6 @@
   },
   {
    "rank": 6,
-   "name": "ScriptWizard",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 7,
    "name": "༺NecroEclipse༻",
    "wins": 0,
    "losses": 0,
@@ -103,7 +90,7 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 7,
    "name": "Raisi",
    "wins": 0,
    "losses": 0,
@@ -116,7 +103,7 @@
    }
   },
   {
-   "rank": 9,
+   "rank": 8,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -129,7 +116,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 9,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -138,6 +125,19 @@
     "MZ": {
      "wins": 0,
      "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 10,
+   "name": "ScriptWizard",
+   "wins": 0,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 2
     }
    }
   }
