@@ -1,5 +1,5 @@
 {
- "updated": 1793242212,
+ "updated": 1793242621,
  "trainers": 20,
  "worlds": {
   "MZ": "Mesagoza",
@@ -65,6 +65,19 @@
   },
   {
    "rank": 5,
+   "name": "Rącooną mätãtã",
+   "wins": 2,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 6,
    "name": "Raisi",
    "wins": 2,
    "losses": 1,
@@ -77,7 +90,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -90,7 +103,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "SleepySealxx",
    "wins": 2,
    "losses": 3,
@@ -103,7 +116,7 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 3,
@@ -116,7 +129,7 @@
    }
   },
   {
-   "rank": 9,
+   "rank": 10,
    "name": "Bulbaboi",
    "wins": 2,
    "losses": 5,
@@ -125,19 +138,6 @@
     "MZ": {
      "wins": 2,
      "losses": 5
-    }
-   }
-  },
-  {
-   "rank": 10,
-   "name": "Rącooną mätãtã",
-   "wins": 1,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 0
     }
    }
   },
