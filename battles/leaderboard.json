@@ -1,5 +1,5 @@
 {
- "updated": 1793279668,
+ "updated": 1793281119,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -94,6 +94,23 @@
   },
   {
    "rank": 6,
+   "name": "ThatOneGuy485",
+   "wins": 8,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MT": {
+     "wins": 1,
+     "losses": 0
+    },
+    "MZ": {
+     "wins": 7,
+     "losses": 2
+    }
+   }
+  },
+  {
+   "rank": 7,
    "name": "Rącooną mätãtã",
    "wins": 8,
    "losses": 3,
@@ -106,7 +123,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "Raisi",
    "wins": 7,
    "losses": 4,
@@ -115,23 +132,6 @@
     "MZ": {
      "wins": 7,
      "losses": 4
-    }
-   }
-  },
-  {
-   "rank": 8,
-   "name": "ThatOneGuy485",
-   "wins": 4,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MT": {
-     "wins": 1,
-     "losses": 0
-    },
-    "MZ": {
-     "wins": 3,
-     "losses": 1
     }
    }
   },
