@@ -1,19 +1,20 @@
-PVPOKE-BATTLES|2|1793241819|18
-1|H2OCrow|8|4|0
-2|GoofyLeopard7263 c9d6|7|2|0
+PVPOKE-BATTLES|2|1793241934|19
+1|GoofyLeopard7263 c9d6|8|2|0
+2|H2OCrow|8|4|0
 3|༺NecroEclipse༻|3|0|0
 4|Raisi|2|1|0
 5|Ghost 6465|2|1|0
 6|Stonedgamer55|2|2|0
 7|SleepySealxx|2|3|0
-8|TheKittyEmpurr|1|1|0
-9|Eren dragneel|1|3|0
-10|Bulbaboi|1|4|0
-11|JohntheKeeper87|0|0|0
-12|blusquirrle|0|0|0
-13|ShadowAinz|0|0|0
-14|XxZombieFanxX|0|0|0
-15|DemEntedsmilE|0|0|0
-16|Ttv․LimitlessMonster f6eb|0|0|0
-17|Doughnut99 bd8a|0|1|0
-18|ScriptWizard|0|2|0
+8|Rącooną mätãtã|1|0|0
+9|TheKittyEmpurr|1|1|0
+10|Eren dragneel|1|3|0
+11|Bulbaboi|1|4|0
+12|JohntheKeeper87|0|0|0
+13|blusquirrle|0|0|0
+14|ShadowAinz|0|0|0
+15|XxZombieFanxX|0|0|0
+16|DemEntedsmilE|0|0|0
+17|Ttv․LimitlessMonster f6eb|0|0|0
+18|Doughnut99 bd8a|0|1|0
+19|ScriptWizard|0|3|0
