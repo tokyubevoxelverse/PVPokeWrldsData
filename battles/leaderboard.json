@@ -1,5 +1,5 @@
 {
- "updated": 1793244197,
+ "updated": 1793244438,
  "trainers": 22,
  "worlds": {
   "MZ": "Mesagoza",
@@ -43,6 +43,19 @@
   },
   {
    "rank": 3,
+   "name": "Bulbaboi",
+   "wins": 4,
+   "losses": 5,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 4,
+     "losses": 5
+    }
+   }
+  },
+  {
+   "rank": 4,
    "name": "༺NecroEclipse༻",
    "wins": 3,
    "losses": 0,
@@ -55,7 +68,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 5,
    "name": "Rącooną mätãtã",
    "wins": 3,
    "losses": 0,
@@ -64,19 +77,6 @@
     "MZ": {
      "wins": 3,
      "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 5,
-   "name": "Bulbaboi",
-   "wins": 3,
-   "losses": 5,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 3,
-     "losses": 5
     }
    }
   },
