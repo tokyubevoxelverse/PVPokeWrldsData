@@ -1,5 +1,5 @@
 {
- "updated": 1793284202,
+ "updated": 1793284234,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -319,6 +319,23 @@
   },
   {
    "rank": 23,
+   "name": "Dingus_109",
+   "wins": 1,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 6
+    },
+    "MT": {
+     "wins": 1,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 24,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -331,7 +348,7 @@
    }
   },
   {
-   "rank": 24,
+   "rank": 25,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -344,7 +361,7 @@
    }
   },
   {
-   "rank": 25,
+   "rank": 26,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -357,7 +374,7 @@
    }
   },
   {
-   "rank": 26,
+   "rank": 27,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -370,7 +387,7 @@
    }
   },
   {
-   "rank": 27,
+   "rank": 28,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
@@ -387,7 +404,7 @@
    }
   },
   {
-   "rank": 28,
+   "rank": 29,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -400,7 +417,7 @@
    }
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 5,
@@ -413,19 +430,6 @@
     "MT": {
      "wins": 0,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 30,
-   "name": "Dingus_109",
-   "wins": 0,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 6
     }
    }
   }
