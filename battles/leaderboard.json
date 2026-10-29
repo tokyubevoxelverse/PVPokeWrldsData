@@ -1,5 +1,5 @@
 {
- "updated": 1793236584,
+ "updated": 1793236834,
  "trainers": 13,
  "worlds": {
   "MZ": "Mesagoza",
@@ -27,12 +27,12 @@
   {
    "rank": 2,
    "name": "GoofyLeopard7263 c9d6",
-   "wins": 3,
+   "wins": 4,
    "losses": 2,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 3,
+     "wins": 4,
      "losses": 2
     }
    }
