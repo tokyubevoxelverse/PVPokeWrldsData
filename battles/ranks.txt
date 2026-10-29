@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793240134|17
+PVPOKE-BATTLES|2|1793240260|18
 1|H2OCrow|8|4|0
 2|GoofyLeopard7263 c9d6|7|2|0
 3|༺NecroEclipse༻|3|0|0
@@ -13,6 +13,7 @@ PVPOKE-BATTLES|2|1793240134|17
 12|ShadowAinz|0|0|0
 13|XxZombieFanxX|0|0|0
 14|DemEntedsmilE|0|0|0
-15|Doughnut99 bd8a|0|1|0
-16|SleepySealxx|0|1|0
-17|ScriptWizard|0|2|0
+15|Ttv․LimitlessMonster f6eb|0|0|0
+16|Doughnut99 bd8a|0|1|0
+17|SleepySealxx|0|1|0
+18|ScriptWizard|0|2|0
