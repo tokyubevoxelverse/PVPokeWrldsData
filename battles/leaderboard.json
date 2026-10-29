@@ -1,5 +1,5 @@
 {
- "updated": 1793281233,
+ "updated": 1793281656,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -137,6 +137,19 @@
   },
   {
    "rank": 9,
+   "name": "ᴊᴠᴅᴇ",
+   "wins": 5,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 5,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 10,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -149,7 +162,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "SleepySealxx",
    "wins": 4,
    "losses": 5,
@@ -162,7 +175,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "blusquirrle",
    "wins": 3,
    "losses": 1,
@@ -175,7 +188,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "PossibilityFiel",
    "wins": 3,
    "losses": 3,
@@ -188,7 +201,7 @@
    }
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -201,7 +214,7 @@
    }
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -214,21 +227,8 @@
    }
   },
   {
-   "rank": 15,
-   "name": "DemEntedsmilE",
-   "wins": 2,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 1
-    }
-   }
-  },
-  {
    "rank": 16,
-   "name": "ᴊᴠᴅᴇ",
+   "name": "DemEntedsmilE",
    "wins": 2,
    "losses": 1,
    "tier": 0,
