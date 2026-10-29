@@ -1,6 +1,6 @@
 {
- "updated": 1793241934,
- "trainers": 19,
+ "updated": 1793242112,
+ "trainers": 20,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -52,6 +52,19 @@
   },
   {
    "rank": 4,
+   "name": "YuukiKuratosh1",
+   "wins": 2,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MT": {
+     "wins": 2,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 5,
    "name": "Raisi",
    "wins": 2,
    "losses": 1,
@@ -64,7 +77,7 @@
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -73,19 +86,6 @@
     "MZ": {
      "wins": 2,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 6,
-   "name": "Stonedgamer55",
-   "wins": 2,
-   "losses": 2,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 2
     }
    }
   },
@@ -104,6 +104,19 @@
   },
   {
    "rank": 8,
+   "name": "Stonedgamer55",
+   "wins": 2,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 9,
    "name": "Rącooną mätãtã",
    "wins": 1,
    "losses": 0,
@@ -116,7 +129,7 @@
    }
   },
   {
-   "rank": 9,
+   "rank": 10,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -129,7 +142,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -142,7 +155,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "Bulbaboi",
    "wins": 1,
    "losses": 4,
@@ -155,7 +168,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -168,7 +181,7 @@
    }
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "blusquirrle",
    "wins": 0,
    "losses": 0,
@@ -181,7 +194,7 @@
    }
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -194,7 +207,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 0,
@@ -207,7 +220,7 @@
    }
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "DemEntedsmilE",
    "wins": 0,
    "losses": 0,
@@ -220,7 +233,7 @@
    }
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 0,
    "losses": 0,
@@ -233,7 +246,7 @@
    }
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -246,7 +259,7 @@
    }
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 3,
