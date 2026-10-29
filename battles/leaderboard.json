@@ -1,5 +1,5 @@
 {
- "updated": 1793281984,
+ "updated": 1793282133,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -77,6 +77,19 @@
   },
   {
    "rank": 5,
+   "name": "Rącooną mätãtã",
+   "wins": 11,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 11,
+     "losses": 6
+    }
+   }
+  },
+  {
+   "rank": 6,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 10,
    "losses": 3,
@@ -93,7 +106,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "ThatOneGuy485",
    "wins": 9,
    "losses": 2,
@@ -106,19 +119,6 @@
     "MZ": {
      "wins": 8,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 7,
-   "name": "Rącooną mätãtã",
-   "wins": 8,
-   "losses": 3,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 8,
-     "losses": 3
     }
    }
   },
