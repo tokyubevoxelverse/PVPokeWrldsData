@@ -1,5 +1,5 @@
 {
- "updated": 1793283334,
+ "updated": 1793283404,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -358,7 +358,7 @@
   },
   {
    "rank": 26,
-   "name": "XxZombieFanxX",
+   "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
    "tier": 0,
@@ -371,7 +371,7 @@
   },
   {
    "rank": 27,
-   "name": "Kyubiscus",
+   "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
    "tier": 0,
@@ -379,6 +379,10 @@
     "MZ": {
      "wins": 0,
      "losses": 1
+    },
+    "MT": {
+     "wins": 0,
+     "losses": 0
     }
    }
   },
