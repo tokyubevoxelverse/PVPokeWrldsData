@@ -1,6 +1,6 @@
 {
- "updated": 1793259649,
- "trainers": 24,
+ "updated": 1793259929,
+ "trainers": 25,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -26,6 +26,23 @@
   },
   {
    "rank": 2,
+   "name": "H2OCrow",
+   "wins": 12,
+   "losses": 9,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 11,
+     "losses": 8
+    },
+    "MT": {
+     "wins": 1,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 3,
    "name": "༺NecroEclipse༻",
    "wins": 11,
    "losses": 3,
@@ -34,23 +51,6 @@
     "MZ": {
      "wins": 11,
      "losses": 3
-    }
-   }
-  },
-  {
-   "rank": 3,
-   "name": "H2OCrow",
-   "wins": 10,
-   "losses": 9,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 9,
-     "losses": 8
-    },
-    "MT": {
-     "wins": 1,
-     "losses": 1
     }
    }
   },
@@ -281,6 +281,19 @@
   },
   {
    "rank": 21,
+   "name": "ᴊᴠᴅᴇ",
+   "wins": 0,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 22,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -293,7 +306,7 @@
    }
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
@@ -306,7 +319,7 @@
    }
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "ScarsUpload",
    "wins": 0,
    "losses": 3,
@@ -319,7 +332,7 @@
    }
   },
   {
-   "rank": 24,
+   "rank": 25,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 5,
