@@ -1,9 +1,9 @@
-PVPOKE-BATTLES|2|1793266743|27
+PVPOKE-BATTLES|2|1793266838|27
 1|GoofyLeopard7263 c9d6|23|5|0
 2|༺NecroEclipse༻|13|3|0
 3|H2OCrow|12|10|0
 4|Rącooną mätãtã|8|3|0
-5|Raisi|6|4|0
+5|Raisi|7|4|0
 6|ThatOneGuy485|4|1|0
 7|Bulbaboi|4|5|0
 8|SleepySealxx|4|5|0
