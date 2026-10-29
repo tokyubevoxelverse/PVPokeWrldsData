@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793276925|29
+PVPOKE-BATTLES|2|1793277446|30
 1|GoofyLeopard7263 c9d6|25|7|0
 2|ScarsUpload|18|19|0
 3|༺NecroEclipse༻|13|4|0
@@ -26,5 +26,6 @@ PVPOKE-BATTLES|2|1793276925|29
 25|Doughnut99 bd8a|0|1|0
 26|XxZombieFanxX|0|1|0
 27|Kyubiscus|0|1|0
-28|Dingus_109|0|3|0
-29|ScriptWizard|0|5|0
+28|BarbGoesLooney|0|2|0
+29|Dingus_109|0|3|0
+30|ScriptWizard|0|5|0
