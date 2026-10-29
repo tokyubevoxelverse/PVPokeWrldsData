@@ -1,5 +1,5 @@
 {
- "updated": 1793257738,
+ "updated": 1793259649,
  "trainers": 24,
  "worlds": {
   "MZ": "Mesagoza",
@@ -26,6 +26,19 @@
   },
   {
    "rank": 2,
+   "name": "༺NecroEclipse༻",
+   "wins": 11,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 11,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 3,
    "name": "H2OCrow",
    "wins": 10,
    "losses": 9,
@@ -37,19 +50,6 @@
     },
     "MT": {
      "wins": 1,
-     "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 3,
-   "name": "༺NecroEclipse༻",
-   "wins": 8,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 8,
      "losses": 1
     }
    }
