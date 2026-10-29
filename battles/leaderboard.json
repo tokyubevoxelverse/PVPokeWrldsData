@@ -1,5 +1,5 @@
 {
- "updated": 1793286116,
+ "updated": 1793286577,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -176,6 +176,23 @@
   },
   {
    "rank": 12,
+   "name": "Dingus_109",
+   "wins": 4,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 6
+    },
+    "MT": {
+     "wins": 4,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 13,
    "name": "blusquirrle",
    "wins": 3,
    "losses": 1,
@@ -188,7 +205,7 @@
    }
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "PossibilityFiel",
    "wins": 3,
    "losses": 3,
@@ -197,23 +214,6 @@
     "MZ": {
      "wins": 3,
      "losses": 3
-    }
-   }
-  },
-  {
-   "rank": 14,
-   "name": "Dingus_109",
-   "wins": 3,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 6
-    },
-    "MT": {
-     "wins": 3,
-     "losses": 0
     }
    }
   },
