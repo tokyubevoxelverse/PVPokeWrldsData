@@ -1,5 +1,5 @@
 {
- "updated": 1793236009,
+ "updated": 1793236584,
  "trainers": 13,
  "worlds": {
   "MZ": "Mesagoza",
@@ -39,20 +39,20 @@
   },
   {
    "rank": 3,
-   "name": "Raisi",
+   "name": "Stonedgamer55",
    "wins": 2,
-   "losses": 0,
+   "losses": 1,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 2,
-     "losses": 0
+     "losses": 1
     }
    }
   },
   {
    "rank": 4,
-   "name": "Stonedgamer55",
+   "name": "Raisi",
    "wins": 2,
    "losses": 1,
    "tier": 0,
