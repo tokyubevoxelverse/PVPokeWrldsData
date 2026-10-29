@@ -1,5 +1,5 @@
 {
- "updated": 1793245738,
+ "updated": 1793246146,
  "trainers": 22,
  "worlds": {
   "MZ": "Mesagoza",
@@ -147,6 +147,19 @@
   },
   {
    "rank": 11,
+   "name": "DemEntedsmilE",
+   "wins": 2,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 12,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 3,
@@ -159,7 +172,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "ThatOneGuy485",
    "wins": 1,
    "losses": 0,
@@ -172,7 +185,7 @@
    }
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -185,7 +198,7 @@
    }
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -198,7 +211,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -211,21 +224,8 @@
    }
   },
   {
-   "rank": 16,
-   "name": "ShadowAinz",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
    "rank": 17,
-   "name": "DemEntedsmilE",
+   "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
    "tier": 0,
