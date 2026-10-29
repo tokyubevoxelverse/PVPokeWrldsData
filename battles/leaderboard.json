@@ -1,5 +1,5 @@
 {
- "updated": 1793301819,
+ "updated": 1793302224,
  "trainers": 33,
  "worlds": {
   "MZ": "Mesagoza",
@@ -103,6 +103,19 @@
   },
   {
    "rank": 7,
+   "name": "Raisi",
+   "wins": 11,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 11,
+     "losses": 6
+    }
+   }
+  },
+  {
+   "rank": 8,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 10,
    "losses": 3,
@@ -115,19 +128,6 @@
     "MZ": {
      "wins": 8,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 8,
-   "name": "Raisi",
-   "wins": 10,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 10,
-     "losses": 6
     }
    }
   },
