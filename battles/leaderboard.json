@@ -1,5 +1,5 @@
 {
- "updated": 1793308138,
+ "updated": 1793308520,
  "trainers": 34,
  "worlds": {
   "MZ": "Mesagoza",
@@ -276,6 +276,19 @@
   },
   {
    "rank": 19,
+   "name": "Doughnut99 bd8a",
+   "wins": 2,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 2
+    }
+   }
+  },
+  {
+   "rank": 20,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 5,
@@ -288,7 +301,7 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "CosmicSeal9875 9bcf",
    "wins": 2,
    "losses": 6,
@@ -301,7 +314,7 @@
    }
   },
   {
-   "rank": 21,
+   "rank": 22,
    "name": "ĸīᴦἀᵭīἀռȼҽ",
    "wins": 1,
    "losses": 0,
@@ -314,7 +327,7 @@
    }
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -327,7 +340,7 @@
    }
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "Venom258 76e0",
    "wins": 1,
    "losses": 2,
@@ -340,7 +353,7 @@
    }
   },
   {
-   "rank": 24,
+   "rank": 25,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -353,7 +366,7 @@
    }
   },
   {
-   "rank": 25,
+   "rank": 26,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -366,7 +379,7 @@
    }
   },
   {
-   "rank": 26,
+   "rank": 27,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -379,7 +392,7 @@
    }
   },
   {
-   "rank": 27,
+   "rank": 28,
    "name": "ShadowKarma20",
    "wins": 0,
    "losses": 0,
@@ -392,7 +405,7 @@
    }
   },
   {
-   "rank": 28,
+   "rank": 29,
    "name": "連続THEGOODGUY 凶漢",
    "wins": 0,
    "losses": 0,
@@ -405,7 +418,7 @@
    }
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "Snorxtori",
    "wins": 0,
    "losses": 0,
@@ -414,19 +427,6 @@
     "MZ": {
      "wins": 0,
      "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 30,
-   "name": "Doughnut99 bd8a",
-   "wins": 0,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 1
     }
    }
   },
