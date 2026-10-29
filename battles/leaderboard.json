@@ -1,5 +1,5 @@
 {
- "updated": 1793249328,
+ "updated": 1793250435,
  "trainers": 23,
  "worlds": {
   "MZ": "Mesagoza",
@@ -13,6 +13,19 @@
  "entries": [
   {
    "rank": 1,
+   "name": "GoofyLeopard7263 c9d6",
+   "wins": 10,
+   "losses": 5,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 10,
+     "losses": 5
+    }
+   }
+  },
+  {
+   "rank": 2,
    "name": "H2OCrow",
    "wins": 10,
    "losses": 6,
@@ -25,19 +38,6 @@
     "MT": {
      "wins": 1,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 2,
-   "name": "GoofyLeopard7263 c9d6",
-   "wins": 9,
-   "losses": 5,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 9,
-     "losses": 5
     }
    }
   },
