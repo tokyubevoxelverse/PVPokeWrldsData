@@ -1,5 +1,5 @@
 {
- "updated": 1793293308,
+ "updated": 1793293654,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -206,6 +206,19 @@
   },
   {
    "rank": 14,
+   "name": "Ghost 6465",
+   "wins": 3,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 3,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 15,
    "name": "PossibilityFiel",
    "wins": 3,
    "losses": 3,
@@ -218,7 +231,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -227,19 +240,6 @@
     "MT": {
      "wins": 2,
      "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 16,
-   "name": "Ghost 6465",
-   "wins": 2,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 1
     }
    }
   },

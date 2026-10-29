@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793293308|30
+PVPOKE-BATTLES|2|1793293654|30
 1|GoofyLeopard7263 c9d6|27|7|0
 2|ScarsUpload|20|23|0
 3|Rącooną mätãtã|15|6|0
@@ -12,9 +12,9 @@ PVPOKE-BATTLES|2|1793293308|30
 11|Bulbaboi|4|5|0
 12|Dingus_109|4|7|0
 13|blusquirrle|3|1|0
-14|PossibilityFiel|3|3|0
-15|YuukiKuratosh1|2|0|0
-16|Ghost 6465|2|1|0
+14|Ghost 6465|3|1|0
+15|PossibilityFiel|3|3|0
+16|YuukiKuratosh1|2|0|0
 17|DemEntedsmilE|2|1|0
 18|Stonedgamer55|2|5|0
 19|CosmicSeal9875 9bcf|2|6|0
