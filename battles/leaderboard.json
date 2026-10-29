@@ -1,5 +1,5 @@
 {
- "updated": 1793242621,
+ "updated": 1793242693,
  "trainers": 20,
  "worlds": {
   "MZ": "Mesagoza",
@@ -13,6 +13,23 @@
  "entries": [
   {
    "rank": 1,
+   "name": "H2OCrow",
+   "wins": 9,
+   "losses": 5,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 8,
+     "losses": 4
+    },
+    "MT": {
+     "wins": 1,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 2,
    "name": "GoofyLeopard7263 c9d6",
    "wins": 8,
    "losses": 2,
@@ -21,19 +38,6 @@
     "MZ": {
      "wins": 8,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 2,
-   "name": "H2OCrow",
-   "wins": 8,
-   "losses": 4,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 8,
-     "losses": 4
     }
    }
   },
