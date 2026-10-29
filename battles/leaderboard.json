@@ -1,5 +1,5 @@
 {
- "updated": 1793244768,
+ "updated": 1793244920,
  "trainers": 22,
  "worlds": {
   "MZ": "Mesagoza",
@@ -56,6 +56,19 @@
   },
   {
    "rank": 4,
+   "name": "SleepySealxx",
+   "wins": 4,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 4,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 5,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -68,7 +81,7 @@
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "name": "༺NecroEclipse༻",
    "wins": 3,
    "losses": 0,
@@ -81,7 +94,20 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
+   "name": "Raisi",
+   "wins": 3,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 3,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 8,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -94,7 +120,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 9,
    "name": "blusquirrle",
    "wins": 2,
    "losses": 0,
@@ -107,20 +133,7 @@
    }
   },
   {
-   "rank": 8,
-   "name": "Raisi",
-   "wins": 2,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 9,
+   "rank": 10,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -129,19 +142,6 @@
     "MZ": {
      "wins": 2,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 10,
-   "name": "SleepySealxx",
-   "wins": 2,
-   "losses": 3,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 3
     }
    }
   },
