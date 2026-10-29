@@ -1,6 +1,6 @@
 {
- "updated": 1793238464,
- "trainers": 15,
+ "updated": 1793238634,
+ "trainers": 17,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -182,6 +182,32 @@
   },
   {
    "rank": 14,
+   "name": "XxZombieFanxX",
+   "wins": 0,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 15,
+   "name": "DemEntedsmilE",
+   "wins": 0,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 16,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -194,7 +220,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 17,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 2,
