@@ -1,5 +1,5 @@
 {
- "updated": 1793246561,
+ "updated": 1793246733,
  "trainers": 22,
  "worlds": {
   "MZ": "Mesagoza",
@@ -160,6 +160,23 @@
   },
   {
    "rank": 12,
+   "name": "ThatOneGuy485",
+   "wins": 2,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MT": {
+     "wins": 1,
+     "losses": 0
+    },
+    "MZ": {
+     "wins": 1,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 13,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 4,
@@ -168,19 +185,6 @@
     "MZ": {
      "wins": 2,
      "losses": 4
-    }
-   }
-  },
-  {
-   "rank": 13,
-   "name": "ThatOneGuy485",
-   "wins": 1,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MT": {
-     "wins": 1,
-     "losses": 0
     }
    }
   },
