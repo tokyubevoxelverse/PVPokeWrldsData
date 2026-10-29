@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793308520|34
+PVPOKE-BATTLES|2|1793311382|34
 1|GoofyLeopard7263 c9d6|27|7|0
 2|༺NecroEclipse༻|22|6|0
 3|ScarsUpload|20|23|0
@@ -28,8 +28,8 @@ PVPOKE-BATTLES|2|1793308520|34
 27|ShadowAinz|0|0|0
 28|ShadowKarma20|0|0|0
 29|連続THEGOODGUY 凶漢|0|0|0
-30|Snorxtori|0|0|0
-31|Kyubiscus|0|1|0
-32|XxZombieFanxX|0|1|0
-33|BarbGoesLooney|0|2|0
+30|Kyubiscus|0|1|0
+31|XxZombieFanxX|0|1|0
+32|BarbGoesLooney|0|2|0
+33|Snorxtori|0|2|0
 34|ScriptWizard|0|5|0
