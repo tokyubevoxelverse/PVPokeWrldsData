@@ -1,5 +1,5 @@
 {
- "updated": 1793263924,
+ "updated": 1793264165,
  "trainers": 27,
  "worlds": {
   "MZ": "Mesagoza",
@@ -337,20 +337,20 @@
   },
   {
    "rank": 25,
-   "name": "Dingus_109",
+   "name": "ScarsUpload",
    "wins": 0,
-   "losses": 2,
+   "losses": 3,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 0,
-     "losses": 2
+     "losses": 3
     }
    }
   },
   {
    "rank": 26,
-   "name": "ScarsUpload",
+   "name": "Dingus_109",
    "wins": 0,
    "losses": 3,
    "tier": 0,
