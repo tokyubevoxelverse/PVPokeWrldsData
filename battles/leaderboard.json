@@ -1,5 +1,5 @@
 {
- "updated": 1793288284,
+ "updated": 1793292179,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -74,12 +74,12 @@
   {
    "rank": 5,
    "name": "H2OCrow",
-   "wins": 12,
+   "wins": 13,
    "losses": 10,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 11,
+     "wins": 12,
      "losses": 9
     },
     "MT": {
