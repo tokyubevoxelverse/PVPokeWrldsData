@@ -1,6 +1,6 @@
 {
- "updated": 1793261854,
- "trainers": 25,
+ "updated": 1793261928,
+ "trainers": 26,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -32,12 +32,12 @@
    "rank": 2,
    "name": "H2OCrow",
    "wins": 12,
-   "losses": 9,
+   "losses": 10,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 11,
-     "losses": 8
+     "losses": 9
     },
     "MT": {
      "wins": 1,
@@ -298,6 +298,19 @@
   },
   {
    "rank": 22,
+   "name": "Dingus_109",
+   "wins": 0,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 23,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -310,7 +323,7 @@
    }
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
@@ -323,7 +336,7 @@
    }
   },
   {
-   "rank": 24,
+   "rank": 25,
    "name": "ScarsUpload",
    "wins": 0,
    "losses": 3,
@@ -336,7 +349,7 @@
    }
   },
   {
-   "rank": 25,
+   "rank": 26,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 5,
