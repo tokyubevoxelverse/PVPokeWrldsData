@@ -1,6 +1,6 @@
 {
- "updated": 1793242834,
- "trainers": 21,
+ "updated": 1793242921,
+ "trainers": 22,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -277,6 +277,19 @@
   },
   {
    "rank": 21,
+   "name": "ScarsUpload",
+   "wins": 0,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 22,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 4,
