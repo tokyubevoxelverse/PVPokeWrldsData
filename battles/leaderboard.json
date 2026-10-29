@@ -1,6 +1,6 @@
 {
- "updated": 1793301376,
- "trainers": 32,
+ "updated": 1793301445,
+ "trainers": 33,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -151,12 +151,16 @@
   {
    "rank": 10,
    "name": "ᴊᴠᴅᴇ",
-   "wins": 5,
-   "losses": 1,
+   "wins": 7,
+   "losses": 2,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 5,
+     "losses": 1
+    },
+    "MT": {
+     "wins": 2,
      "losses": 1
     }
    }
@@ -388,6 +392,19 @@
   },
   {
    "rank": 28,
+   "name": "Snorxtori",
+   "wins": 0,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 29,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -400,7 +417,7 @@
    }
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -413,7 +430,7 @@
    }
   },
   {
-   "rank": 30,
+   "rank": 31,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
@@ -430,7 +447,7 @@
    }
   },
   {
-   "rank": 31,
+   "rank": 32,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -443,7 +460,7 @@
    }
   },
   {
-   "rank": 32,
+   "rank": 33,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 5,
