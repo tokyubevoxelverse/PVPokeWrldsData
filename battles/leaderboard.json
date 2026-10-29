@@ -1,6 +1,6 @@
 {
- "updated": 1793234608,
- "trainers": 12,
+ "updated": 1793235010,
+ "trainers": 13,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -91,6 +91,19 @@
   },
   {
    "rank": 7,
+   "name": "Eren dragneel",
+   "wins": 1,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 8,
    "name": "Bulbaboi",
    "wins": 1,
    "losses": 4,
@@ -103,7 +116,7 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "༺NecroEclipse༻",
    "wins": 0,
    "losses": 0,
@@ -116,7 +129,7 @@
    }
   },
   {
-   "rank": 9,
+   "rank": 10,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -129,7 +142,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "blusquirrle",
    "wins": 0,
    "losses": 0,
@@ -142,7 +155,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -155,7 +168,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 2,
