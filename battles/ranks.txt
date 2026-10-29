@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793263755|26
+PVPOKE-BATTLES|2|1793263833|27
 1|GoofyLeopard7263 c9d6|22|5|0
 2|༺NecroEclipse༻|13|3|0
 3|H2OCrow|12|10|0
@@ -16,12 +16,13 @@ PVPOKE-BATTLES|2|1793263755|26
 15|Stonedgamer55|2|5|0
 16|ĸīᴦἀᵭīἀռȼҽ|1|0|0
 17|TheKittyEmpurr|1|1|0
-18|Eren dragneel|1|3|0
-19|JohntheKeeper87|0|0|0
-20|ShadowAinz|0|0|0
-21|Ttv․LimitlessMonster f6eb|0|0|0
-22|Doughnut99 bd8a|0|1|0
-23|XxZombieFanxX|0|1|0
-24|Dingus_109|0|2|0
-25|ScarsUpload|0|3|0
-26|ScriptWizard|0|5|0
+18|Venom258 76e0|1|2|0
+19|Eren dragneel|1|3|0
+20|JohntheKeeper87|0|0|0
+21|ShadowAinz|0|0|0
+22|Ttv․LimitlessMonster f6eb|0|0|0
+23|Doughnut99 bd8a|0|1|0
+24|XxZombieFanxX|0|1|0
+25|Dingus_109|0|2|0
+26|ScarsUpload|0|3|0
+27|ScriptWizard|0|5|0
