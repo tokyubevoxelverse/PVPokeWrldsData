@@ -1,5 +1,5 @@
 {
- "updated": 1793313532,
+ "updated": 1793313992,
  "trainers": 35,
  "worlds": {
   "MZ": "Mesagoza",
@@ -380,6 +380,19 @@
   },
   {
    "rank": 27,
+   "name": "Snorxtori",
+   "wins": 1,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 28,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -392,7 +405,7 @@
    }
   },
   {
-   "rank": 28,
+   "rank": 29,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -405,7 +418,7 @@
    }
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "ShadowKarma20",
    "wins": 0,
    "losses": 0,
@@ -418,7 +431,7 @@
    }
   },
   {
-   "rank": 30,
+   "rank": 31,
    "name": "連続THEGOODGUY 凶漢",
    "wins": 0,
    "losses": 0,
@@ -431,7 +444,7 @@
    }
   },
   {
-   "rank": 31,
+   "rank": 32,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -444,7 +457,7 @@
    }
   },
   {
-   "rank": 32,
+   "rank": 33,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
@@ -461,21 +474,8 @@
    }
   },
   {
-   "rank": 33,
-   "name": "BarbGoesLooney",
-   "wins": 0,
-   "losses": 2,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 2
-    }
-   }
-  },
-  {
    "rank": 34,
-   "name": "Snorxtori",
+   "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
    "tier": 0,
