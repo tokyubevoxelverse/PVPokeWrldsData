@@ -1,5 +1,5 @@
 {
- "updated": 1793245652,
+ "updated": 1793245738,
  "trainers": 22,
  "worlds": {
   "MZ": "Mesagoza",
@@ -225,19 +225,6 @@
   },
   {
    "rank": 17,
-   "name": "XxZombieFanxX",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 18,
    "name": "DemEntedsmilE",
    "wins": 0,
    "losses": 0,
@@ -250,7 +237,7 @@
    }
   },
   {
-   "rank": 19,
+   "rank": 18,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 0,
    "losses": 0,
@@ -263,8 +250,21 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 19,
    "name": "Doughnut99 bd8a",
+   "wins": 0,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 20,
+   "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
    "tier": 0,
