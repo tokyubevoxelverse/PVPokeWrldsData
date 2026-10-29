@@ -1,5 +1,5 @@
 {
- "updated": 1793251344,
+ "updated": 1793252010,
  "trainers": 23,
  "worlds": {
   "MZ": "Mesagoza",
@@ -86,6 +86,19 @@
   },
   {
    "rank": 6,
+   "name": "Raisi",
+   "wins": 4,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 4,
+     "losses": 2
+    }
+   }
+  },
+  {
+   "rank": 7,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -98,7 +111,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "SleepySealxx",
    "wins": 4,
    "losses": 5,
@@ -107,19 +120,6 @@
     "MZ": {
      "wins": 4,
      "losses": 5
-    }
-   }
-  },
-  {
-   "rank": 8,
-   "name": "Raisi",
-   "wins": 3,
-   "losses": 2,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 3,
-     "losses": 2
     }
    }
   },
