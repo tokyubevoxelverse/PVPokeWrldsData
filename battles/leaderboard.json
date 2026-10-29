@@ -1,5 +1,5 @@
 {
- "updated": 1793277665,
+ "updated": 1793278607,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -78,13 +78,13 @@
   {
    "rank": 5,
    "name": "Ttv․LimitlessMonster f6eb",
-   "wins": 8,
-   "losses": 2,
+   "wins": 10,
+   "losses": 3,
    "tier": 0,
    "worlds": {
     "MT": {
-     "wins": 0,
-     "losses": 0
+     "wins": 2,
+     "losses": 1
     },
     "MZ": {
      "wins": 8,
