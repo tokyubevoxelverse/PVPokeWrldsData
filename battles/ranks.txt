@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793262535|26
+PVPOKE-BATTLES|2|1793262633|26
 1|GoofyLeopard7263 c9d6|20|5|0
 2|༺NecroEclipse༻|13|3|0
 3|H2OCrow|12|10|0
@@ -11,17 +11,17 @@ PVPOKE-BATTLES|2|1793262535|26
 10|YuukiKuratosh1|2|0|0
 11|Ghost 6465|2|1|0
 12|DemEntedsmilE|2|1|0
-13|PossibilityFiel|2|2|0
-14|Stonedgamer55|2|5|0
-15|ĸīᴦἀᵭīἀռȼҽ|1|0|0
-16|TheKittyEmpurr|1|1|0
-17|Eren dragneel|1|3|0
-18|JohntheKeeper87|0|0|0
-19|ShadowAinz|0|0|0
-20|Ttv․LimitlessMonster f6eb|0|0|0
-21|ᴊᴠᴅᴇ|0|0|0
-22|Dingus_109|0|0|0
-23|Doughnut99 bd8a|0|1|0
-24|XxZombieFanxX|0|1|0
+13|ᴊᴠᴅᴇ|2|1|0
+14|PossibilityFiel|2|2|0
+15|Stonedgamer55|2|5|0
+16|ĸīᴦἀᵭīἀռȼҽ|1|0|0
+17|TheKittyEmpurr|1|1|0
+18|Eren dragneel|1|3|0
+19|JohntheKeeper87|0|0|0
+20|ShadowAinz|0|0|0
+21|Ttv․LimitlessMonster f6eb|0|0|0
+22|Doughnut99 bd8a|0|1|0
+23|XxZombieFanxX|0|1|0
+24|Dingus_109|0|1|0
 25|ScarsUpload|0|3|0
 26|ScriptWizard|0|5|0

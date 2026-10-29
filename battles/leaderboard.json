@@ -1,5 +1,5 @@
 {
- "updated": 1793262535,
+ "updated": 1793262633,
  "trainers": 26,
  "worlds": {
   "MZ": "Mesagoza",
@@ -181,6 +181,19 @@
   },
   {
    "rank": 13,
+   "name": "ᴊᴠᴅᴇ",
+   "wins": 2,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 14,
    "name": "PossibilityFiel",
    "wins": 2,
    "losses": 2,
@@ -193,7 +206,7 @@
    }
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 5,
@@ -206,7 +219,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "ĸīᴦἀᵭīἀռȼҽ",
    "wins": 1,
    "losses": 0,
@@ -219,7 +232,7 @@
    }
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -232,7 +245,7 @@
    }
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -245,7 +258,7 @@
    }
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -258,7 +271,7 @@
    }
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -271,7 +284,7 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 0,
    "losses": 0,
@@ -284,33 +297,7 @@
    }
   },
   {
-   "rank": 21,
-   "name": "ᴊᴠᴅᴇ",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
    "rank": 22,
-   "name": "Dingus_109",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 23,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -323,8 +310,21 @@
    }
   },
   {
-   "rank": 24,
+   "rank": 23,
    "name": "XxZombieFanxX",
+   "wins": 0,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 24,
+   "name": "Dingus_109",
    "wins": 0,
    "losses": 1,
    "tier": 0,
