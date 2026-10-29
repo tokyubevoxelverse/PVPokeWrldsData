@@ -1,5 +1,5 @@
 {
- "updated": 1793316542,
+ "updated": 1793316662,
  "trainers": 35,
  "worlds": {
   "MZ": "Mesagoza",
@@ -302,6 +302,19 @@
   },
   {
    "rank": 21,
+   "name": "Snorxtori",
+   "wins": 2,
+   "losses": 4,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 4
+    }
+   }
+  },
+  {
+   "rank": 22,
    "name": "CosmicSeal9875 9bcf",
    "wins": 2,
    "losses": 6,
@@ -314,7 +327,7 @@
    }
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 7,
@@ -327,7 +340,7 @@
    }
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "ĸīᴦἀᵭīἀռȼҽ",
    "wins": 1,
    "losses": 0,
@@ -340,7 +353,7 @@
    }
   },
   {
-   "rank": 24,
+   "rank": 25,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -353,7 +366,7 @@
    }
   },
   {
-   "rank": 25,
+   "rank": 26,
    "name": "°Maroon-Incubi°",
    "wins": 1,
    "losses": 1,
@@ -366,7 +379,7 @@
    }
   },
   {
-   "rank": 26,
+   "rank": 27,
    "name": "Venom258 76e0",
    "wins": 1,
    "losses": 2,
@@ -379,21 +392,8 @@
    }
   },
   {
-   "rank": 27,
-   "name": "Eren dragneel",
-   "wins": 1,
-   "losses": 3,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 3
-    }
-   }
-  },
-  {
    "rank": 28,
-   "name": "Snorxtori",
+   "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
    "tier": 0,
