@@ -1,5 +1,5 @@
 {
- "updated": 1793285134,
+ "updated": 1793285614,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -267,6 +267,23 @@
   },
   {
    "rank": 19,
+   "name": "Dingus_109",
+   "wins": 2,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 6
+    },
+    "MT": {
+     "wins": 2,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 20,
    "name": "ĸīᴦἀᵭīἀռȼҽ",
    "wins": 1,
    "losses": 0,
@@ -279,7 +296,7 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -292,7 +309,7 @@
    }
   },
   {
-   "rank": 21,
+   "rank": 22,
    "name": "Venom258 76e0",
    "wins": 1,
    "losses": 2,
@@ -305,7 +322,7 @@
    }
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -314,23 +331,6 @@
     "MZ": {
      "wins": 1,
      "losses": 3
-    }
-   }
-  },
-  {
-   "rank": 23,
-   "name": "Dingus_109",
-   "wins": 1,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 6
-    },
-    "MT": {
-     "wins": 1,
-     "losses": 0
     }
    }
   },
