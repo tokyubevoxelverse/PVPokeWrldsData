@@ -1,11 +1,11 @@
-PVPOKE-BATTLES|1|1793240735|18
+PVPOKE-BATTLES|1|1793241819|18
 1|H2OCrow|8|4|0
 2|GoofyLeopard7263 c9d6|7|2|0
 3|༺NecroEclipse༻|3|0|0
 4|Raisi|2|1|0
 5|Ghost 6465|2|1|0
 6|Stonedgamer55|2|2|0
-7|TheKittyEmpurr|1|1|0
-8|Eren dragneel|1|3|0
-9|SleepySealxx|1|3|0
+7|SleepySealxx|2|3|0
+8|TheKittyEmpurr|1|1|0
+9|Eren dragneel|1|3|0
 10|Bulbaboi|1|4|0

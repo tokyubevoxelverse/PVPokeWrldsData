@@ -1,5 +1,5 @@
 {
- "updated": 1793240735,
+ "updated": 1793241819,
  "trainers": 18,
  "worlds": {
   "MZ": "Mesagoza",
@@ -91,6 +91,19 @@
   },
   {
    "rank": 7,
+   "name": "SleepySealxx",
+   "wins": 2,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 8,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -103,21 +116,8 @@
    }
   },
   {
-   "rank": 8,
-   "name": "Eren dragneel",
-   "wins": 1,
-   "losses": 3,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 3
-    }
-   }
-  },
-  {
    "rank": 9,
-   "name": "SleepySealxx",
+   "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
    "tier": 0,
