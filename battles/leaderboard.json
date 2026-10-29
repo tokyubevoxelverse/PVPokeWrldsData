@@ -1,5 +1,5 @@
 {
- "updated": 1793250545,
+ "updated": 1793250634,
  "trainers": 23,
  "worlds": {
   "MZ": "Mesagoza",
@@ -44,12 +44,12 @@
   {
    "rank": 3,
    "name": "Rącooną mätãtã",
-   "wins": 5,
+   "wins": 6,
    "losses": 0,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 5,
+     "wins": 6,
      "losses": 0
     }
    }
@@ -97,12 +97,12 @@
    "rank": 7,
    "name": "Raisi",
    "wins": 3,
-   "losses": 1,
+   "losses": 2,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 3,
-     "losses": 1
+     "losses": 2
     }
    }
   },
