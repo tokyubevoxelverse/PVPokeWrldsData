@@ -1,5 +1,5 @@
 {
- "updated": 1793285778,
+ "updated": 1793286116,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -202,6 +202,23 @@
   },
   {
    "rank": 14,
+   "name": "Dingus_109",
+   "wins": 3,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 6
+    },
+    "MT": {
+     "wins": 3,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 15,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -214,7 +231,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -227,7 +244,7 @@
    }
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "DemEntedsmilE",
    "wins": 2,
    "losses": 1,
@@ -240,7 +257,7 @@
    }
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 5,
@@ -253,7 +270,7 @@
    }
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "CosmicSeal9875 9bcf",
    "wins": 2,
    "losses": 6,
@@ -262,23 +279,6 @@
     "MZ": {
      "wins": 2,
      "losses": 6
-    }
-   }
-  },
-  {
-   "rank": 19,
-   "name": "Dingus_109",
-   "wins": 2,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 6
-    },
-    "MT": {
-     "wins": 2,
-     "losses": 0
     }
    }
   },
