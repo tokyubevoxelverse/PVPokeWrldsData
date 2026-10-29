@@ -17,7 +17,7 @@
 //
 // Bindings (wrangler.toml): DB (D1). Secrets: BATTLE_KEY, GITHUB_TOKEN. Vars: GITHUB_REPO, GITHUB_BRANCH.
 
-const WORLDS = { MZ: "Mesagoza", MT: "The Marine Tube", PP: "Power Plant", SP: "Spear Pillar", MF: "Meteor Falls", MC: "Magma Cavern", IF: "Ilex Forest" };
+const WORLDS = { MZ: "Mesagoza", MT: "The Marine Tube", PP: "Power Plant", SP: "Spear Pillar", MF: "Meteor Falls", MC: "Magma Cavern", IF: "Ilex Forest", EC: "Ecruteak City" };
 const AUTHOR = { name: "tokyubevoxelverse", email: "tokyubeverse@gmail.com" };
 const PUBLISH_EVERY = 60;            // seconds between republishes at most
 const MAX_AGE = 48 * 3600;           // a link older than this is refused (copy a fresh one)
