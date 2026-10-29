@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793256080|23
+PVPOKE-BATTLES|2|1793256334|23
 1|GoofyLeopard7263 c9d6|15|5|0
 2|H2OCrow|10|9|0
 3|༺NecroEclipse༻|8|1|0
@@ -7,10 +7,10 @@ PVPOKE-BATTLES|2|1793256080|23
 6|ThatOneGuy485|4|1|0
 7|Bulbaboi|4|5|0
 8|SleepySealxx|4|5|0
-9|YuukiKuratosh1|2|0|0
-10|Ghost 6465|2|1|0
-11|DemEntedsmilE|2|1|0
-12|blusquirrle|2|1|0
+9|blusquirrle|3|1|0
+10|YuukiKuratosh1|2|0|0
+11|Ghost 6465|2|1|0
+12|DemEntedsmilE|2|1|0
 13|Stonedgamer55|2|5|0
 14|ĸīᴦἀᵭīἀռȼҽ|1|0|0
 15|TheKittyEmpurr|1|1|0

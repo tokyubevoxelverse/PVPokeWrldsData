@@ -1,5 +1,5 @@
 {
- "updated": 1793256080,
+ "updated": 1793256334,
  "trainers": 23,
  "worlds": {
   "MZ": "Mesagoza",
@@ -125,6 +125,19 @@
   },
   {
    "rank": 9,
+   "name": "blusquirrle",
+   "wins": 3,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 3,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 10,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -137,7 +150,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -150,21 +163,8 @@
    }
   },
   {
-   "rank": 11,
-   "name": "DemEntedsmilE",
-   "wins": 2,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 1
-    }
-   }
-  },
-  {
    "rank": 12,
-   "name": "blusquirrle",
+   "name": "DemEntedsmilE",
    "wins": 2,
    "losses": 1,
    "tier": 0,
