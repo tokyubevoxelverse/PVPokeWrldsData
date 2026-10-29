@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|1|1793288224|30
+PVPOKE-BATTLES|1|1793288284|30
 1|GoofyLeopard7263 c9d6|27|7|0
 2|ScarsUpload|20|23|0
 3|Rącooną mätãtã|15|6|0
@@ -7,5 +7,5 @@ PVPOKE-BATTLES|1|1793288224|30
 6|Ttv․LimitlessMonster f6eb|10|3|0
 7|ThatOneGuy485|9|2|0
 8|Raisi|9|4|0
-9|SleepySealxx|8|5|0
+9|SleepySealxx|9|6|0
 10|ᴊᴠᴅᴇ|5|1|0
