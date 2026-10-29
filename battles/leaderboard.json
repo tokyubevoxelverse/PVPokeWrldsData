@@ -1,5 +1,5 @@
 {
- "updated": 1793264165,
+ "updated": 1793264604,
  "trainers": 27,
  "worlds": {
   "MZ": "Mesagoza",
@@ -62,12 +62,12 @@
    "rank": 4,
    "name": "Rącooną mätãtã",
    "wins": 7,
-   "losses": 0,
+   "losses": 2,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 7,
-     "losses": 0
+     "losses": 2
     }
    }
   },
