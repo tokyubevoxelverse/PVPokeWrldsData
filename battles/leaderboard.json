@@ -1,5 +1,5 @@
 {
- "updated": 1793287775,
+ "updated": 1793288138,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -178,7 +178,7 @@
    "rank": 12,
    "name": "Dingus_109",
    "wins": 4,
-   "losses": 6,
+   "losses": 7,
    "tier": 0,
    "worlds": {
     "MZ": {
@@ -187,7 +187,7 @@
     },
     "MT": {
      "wins": 4,
-     "losses": 0
+     "losses": 1
     }
    }
   },
