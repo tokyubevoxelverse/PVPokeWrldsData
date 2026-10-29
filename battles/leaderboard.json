@@ -1,6 +1,6 @@
 {
- "updated": 1793232616,
- "trainers": 11,
+ "updated": 1793232633,
+ "trainers": 12,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -39,6 +39,19 @@
   },
   {
    "rank": 3,
+   "name": "Ghost 6465",
+   "wins": 1,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 4,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -51,7 +64,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 5,
    "name": "GoofyLeopard7263 c9d6",
    "wins": 1,
    "losses": 1,
@@ -64,7 +77,7 @@
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "name": "Bulbaboi",
    "wins": 1,
    "losses": 4,
@@ -77,7 +90,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "༺NecroEclipse༻",
    "wins": 0,
    "losses": 0,
@@ -90,7 +103,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "Raisi",
    "wins": 0,
    "losses": 0,
@@ -103,7 +116,7 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -116,7 +129,7 @@
    }
   },
   {
-   "rank": 9,
+   "rank": 10,
    "name": "blusquirrle",
    "wins": 0,
    "losses": 0,
@@ -129,7 +142,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
@@ -142,7 +155,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 2,

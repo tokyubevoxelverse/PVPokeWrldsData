@@ -1,11 +1,11 @@
-PVPOKE-BATTLES|1|1793232616|11
+PVPOKE-BATTLES|1|1793232633|12
 1|H2OCrow|5|3|0
 2|Stonedgamer55|2|1|0
-3|TheKittyEmpurr|1|1|0
-4|GoofyLeopard7263 c9d6|1|1|0
-5|Bulbaboi|1|4|0
-6|༺NecroEclipse༻|0|0|0
-7|Raisi|0|0|0
-8|JohntheKeeper87|0|0|0
-9|blusquirrle|0|0|0
-10|Doughnut99 bd8a|0|1|0
+3|Ghost 6465|1|0|0
+4|TheKittyEmpurr|1|1|0
+5|GoofyLeopard7263 c9d6|1|1|0
+6|Bulbaboi|1|4|0
+7|༺NecroEclipse༻|0|0|0
+8|Raisi|0|0|0
+9|JohntheKeeper87|0|0|0
+10|blusquirrle|0|0|0
