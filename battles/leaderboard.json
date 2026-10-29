@@ -1,5 +1,5 @@
 {
- "updated": 1793303982,
+ "updated": 1793308039,
  "trainers": 34,
  "worlds": {
   "MZ": "Mesagoza",
@@ -8,7 +8,8 @@
   "SP": "Spear Pillar",
   "MF": "Meteor Falls",
   "MC": "Magma Cavern",
-  "IF": "Ilex Forest"
+  "IF": "Ilex Forest",
+  "EC": "Ecruteak City"
  },
  "entries": [
   {
@@ -30,6 +31,23 @@
   },
   {
    "rank": 2,
+   "name": "༺NecroEclipse༻",
+   "wins": 22,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 22,
+     "losses": 5
+    },
+    "MT": {
+     "wins": 0,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 3,
    "name": "ScarsUpload",
    "wins": 20,
    "losses": 23,
@@ -38,23 +56,6 @@
     "MZ": {
      "wins": 20,
      "losses": 23
-    }
-   }
-  },
-  {
-   "rank": 3,
-   "name": "༺NecroEclipse༻",
-   "wins": 18,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 18,
-     "losses": 5
-    },
-    "MT": {
-     "wins": 0,
-     "losses": 1
     }
    }
   },
