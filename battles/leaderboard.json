@@ -1,5 +1,5 @@
 {
- "updated": 1793300064,
+ "updated": 1793300267,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -90,6 +90,19 @@
   },
   {
    "rank": 6,
+   "name": "SleepySealxx",
+   "wins": 13,
+   "losses": 8,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 13,
+     "losses": 8
+    }
+   }
+  },
+  {
+   "rank": 7,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 10,
    "losses": 3,
@@ -106,7 +119,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "Raisi",
    "wins": 10,
    "losses": 6,
@@ -119,7 +132,7 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "ThatOneGuy485",
    "wins": 9,
    "losses": 2,
@@ -132,19 +145,6 @@
     "MZ": {
      "wins": 8,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 9,
-   "name": "SleepySealxx",
-   "wins": 9,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 9,
-     "losses": 6
     }
    }
   },
