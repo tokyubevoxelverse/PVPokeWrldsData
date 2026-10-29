@@ -1,5 +1,5 @@
 {
- "updated": 1793235505,
+ "updated": 1793236009,
  "trainers": 13,
  "worlds": {
   "MZ": "Mesagoza",
@@ -26,6 +26,19 @@
   },
   {
    "rank": 2,
+   "name": "GoofyLeopard7263 c9d6",
+   "wins": 3,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 3,
+     "losses": 2
+    }
+   }
+  },
+  {
+   "rank": 3,
    "name": "Raisi",
    "wins": 2,
    "losses": 0,
@@ -38,7 +51,7 @@
    }
   },
   {
-   "rank": 3,
+   "rank": 4,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 1,
@@ -51,7 +64,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 5,
    "name": "Ghost 6465",
    "wins": 1,
    "losses": 0,
@@ -64,21 +77,8 @@
    }
   },
   {
-   "rank": 5,
-   "name": "TheKittyEmpurr",
-   "wins": 1,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 1
-    }
-   }
-  },
-  {
    "rank": 6,
-   "name": "GoofyLeopard7263 c9d6",
+   "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
    "tier": 0,
