@@ -1,5 +1,5 @@
 {
- "updated": 1793251234,
+ "updated": 1793251344,
  "trainers": 23,
  "worlds": {
   "MZ": "Mesagoza",
@@ -43,6 +43,19 @@
   },
   {
    "rank": 3,
+   "name": "༺NecroEclipse༻",
+   "wins": 8,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 8,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 4,
    "name": "Rącooną mätãtã",
    "wins": 7,
    "losses": 0,
@@ -55,7 +68,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 5,
    "name": "ThatOneGuy485",
    "wins": 4,
    "losses": 1,
@@ -72,7 +85,7 @@
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -85,7 +98,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "SleepySealxx",
    "wins": 4,
    "losses": 5,
@@ -94,19 +107,6 @@
     "MZ": {
      "wins": 4,
      "losses": 5
-    }
-   }
-  },
-  {
-   "rank": 7,
-   "name": "༺NecroEclipse༻",
-   "wins": 3,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 3,
-     "losses": 0
     }
    }
   },

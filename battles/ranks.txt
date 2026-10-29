@@ -1,11 +1,11 @@
-PVPOKE-BATTLES|2|1793251234|23
+PVPOKE-BATTLES|2|1793251344|23
 1|GoofyLeopard7263 c9d6|11|5|0
 2|H2OCrow|10|8|0
-3|Rącooną mätãtã|7|0|0
-4|ThatOneGuy485|4|1|0
-5|Bulbaboi|4|5|0
-6|SleepySealxx|4|5|0
-7|༺NecroEclipse༻|3|0|0
+3|༺NecroEclipse༻|8|1|0
+4|Rącooną mätãtã|7|0|0
+5|ThatOneGuy485|4|1|0
+6|Bulbaboi|4|5|0
+7|SleepySealxx|4|5|0
 8|Raisi|3|2|0
 9|YuukiKuratosh1|2|0|0
 10|Ghost 6465|2|1|0
