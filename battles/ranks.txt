@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793300531|30
+PVPOKE-BATTLES|2|1793301149|31
 1|GoofyLeopard7263 c9d6|27|7|0
 2|ScarsUpload|20|23|0
 3|༺NecroEclipse༻|18|6|0
@@ -24,8 +24,9 @@ PVPOKE-BATTLES|2|1793300531|30
 23|Eren dragneel|1|3|0
 24|JohntheKeeper87|0|0|0
 25|ShadowAinz|0|0|0
-26|Doughnut99 bd8a|0|1|0
-27|Kyubiscus|0|1|0
-28|XxZombieFanxX|0|1|0
-29|BarbGoesLooney|0|2|0
-30|ScriptWizard|0|5|0
+26|ShadowKarma20|0|0|0
+27|Doughnut99 bd8a|0|1|0
+28|Kyubiscus|0|1|0
+29|XxZombieFanxX|0|1|0
+30|BarbGoesLooney|0|2|0
+31|ScriptWizard|0|5|0
