@@ -1,5 +1,5 @@
 {
- "updated": 1793317833,
+ "updated": 1793318345,
  "trainers": 36,
  "worlds": {
   "MZ": "Mesagoza",
@@ -151,6 +151,19 @@
   },
   {
    "rank": 10,
+   "name": "連続THEGOODGUY 凶漢",
+   "wins": 7,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 7,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 11,
    "name": "ᴊᴠᴅᴇ",
    "wins": 7,
    "losses": 2,
@@ -167,7 +180,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "Ghost 6465",
    "wins": 7,
    "losses": 3,
@@ -176,19 +189,6 @@
     "MZ": {
      "wins": 7,
      "losses": 3
-    }
-   }
-  },
-  {
-   "rank": 12,
-   "name": "連続THEGOODGUY 凶漢",
-   "wins": 6,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 6,
-     "losses": 1
     }
    }
   },
