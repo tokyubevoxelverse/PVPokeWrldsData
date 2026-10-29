@@ -1,5 +1,5 @@
 {
- "updated": 1793240260,
+ "updated": 1793240735,
  "trainers": 18,
  "worlds": {
   "MZ": "Mesagoza",
@@ -117,6 +117,19 @@
   },
   {
    "rank": 9,
+   "name": "SleepySealxx",
+   "wins": 1,
+   "losses": 3,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 3
+    }
+   }
+  },
+  {
+   "rank": 10,
    "name": "Bulbaboi",
    "wins": 1,
    "losses": 4,
@@ -129,7 +142,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -142,7 +155,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "blusquirrle",
    "wins": 0,
    "losses": 0,
@@ -155,7 +168,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -168,7 +181,7 @@
    }
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 0,
@@ -181,7 +194,7 @@
    }
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "DemEntedsmilE",
    "wins": 0,
    "losses": 0,
@@ -194,7 +207,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 0,
    "losses": 0,
@@ -207,21 +220,8 @@
    }
   },
   {
-   "rank": 16,
-   "name": "Doughnut99 bd8a",
-   "wins": 0,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 1
-    }
-   }
-  },
-  {
    "rank": 17,
-   "name": "SleepySealxx",
+   "name": "Doughnut99 bd8a",
    "wins": 0,
    "losses": 1,
    "tier": 0,
