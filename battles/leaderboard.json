@@ -1,6 +1,6 @@
 {
- "updated": 1793316662,
- "trainers": 35,
+ "updated": 1793316739,
+ "trainers": 36,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -445,6 +445,19 @@
   },
   {
    "rank": 32,
+   "name": "ArchetypeB",
+   "wins": 0,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 33,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -457,7 +470,7 @@
    }
   },
   {
-   "rank": 33,
+   "rank": 34,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
@@ -474,7 +487,7 @@
    }
   },
   {
-   "rank": 34,
+   "rank": 35,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -487,7 +500,7 @@
    }
   },
   {
-   "rank": 35,
+   "rank": 36,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 5,
