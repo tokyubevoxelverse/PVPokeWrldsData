@@ -1,5 +1,5 @@
 {
- "updated": 1793283151,
+ "updated": 1793283334,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -137,6 +137,19 @@
   },
   {
    "rank": 9,
+   "name": "SleepySealxx",
+   "wins": 7,
+   "losses": 5,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 7,
+     "losses": 5
+    }
+   }
+  },
+  {
+   "rank": 10,
    "name": "ᴊᴠᴅᴇ",
    "wins": 5,
    "losses": 1,
@@ -149,21 +162,8 @@
    }
   },
   {
-   "rank": 10,
-   "name": "Bulbaboi",
-   "wins": 4,
-   "losses": 5,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 4,
-     "losses": 5
-    }
-   }
-  },
-  {
    "rank": 11,
-   "name": "SleepySealxx",
+   "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
    "tier": 0,
