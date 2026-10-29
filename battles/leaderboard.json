@@ -1,5 +1,5 @@
 {
- "updated": 1793300267,
+ "updated": 1793300531,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -164,12 +164,12 @@
   {
    "rank": 11,
    "name": "Ghost 6465",
-   "wins": 4,
+   "wins": 5,
    "losses": 2,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 4,
+     "wins": 5,
      "losses": 2
     }
    }

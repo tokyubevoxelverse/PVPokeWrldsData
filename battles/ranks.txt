@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793300267|30
+PVPOKE-BATTLES|2|1793300531|30
 1|GoofyLeopard7263 c9d6|27|7|0
 2|ScarsUpload|20|23|0
 3|༺NecroEclipse༻|18|6|0
@@ -9,7 +9,7 @@ PVPOKE-BATTLES|2|1793300267|30
 8|Raisi|10|6|0
 9|ThatOneGuy485|9|2|0
 10|ᴊᴠᴅᴇ|5|1|0
-11|Ghost 6465|4|2|0
+11|Ghost 6465|5|2|0
 12|Bulbaboi|4|5|0
 13|Dingus_109|4|8|0
 14|blusquirrle|3|1|0
