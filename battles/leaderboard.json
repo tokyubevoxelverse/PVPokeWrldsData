@@ -1,5 +1,5 @@
 {
- "updated": 1793250634,
+ "updated": 1793250932,
  "trainers": 23,
  "worlds": {
   "MZ": "Mesagoza",
@@ -14,12 +14,12 @@
   {
    "rank": 1,
    "name": "GoofyLeopard7263 c9d6",
-   "wins": 10,
+   "wins": 11,
    "losses": 5,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 10,
+     "wins": 11,
      "losses": 5
     }
    }
@@ -56,6 +56,23 @@
   },
   {
    "rank": 4,
+   "name": "ThatOneGuy485",
+   "wins": 4,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MT": {
+     "wins": 1,
+     "losses": 0
+    },
+    "MZ": {
+     "wins": 3,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 5,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -68,7 +85,7 @@
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "name": "SleepySealxx",
    "wins": 4,
    "losses": 5,
@@ -81,7 +98,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "༺NecroEclipse༻",
    "wins": 3,
    "losses": 0,
@@ -94,7 +111,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "Raisi",
    "wins": 3,
    "losses": 2,
@@ -107,26 +124,13 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
    "tier": 0,
    "worlds": {
     "MT": {
-     "wins": 2,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 9,
-   "name": "blusquirrle",
-   "wins": 2,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
      "wins": 2,
      "losses": 0
     }
@@ -160,17 +164,13 @@
   },
   {
    "rank": 12,
-   "name": "ThatOneGuy485",
+   "name": "blusquirrle",
    "wins": 2,
    "losses": 1,
    "tier": 0,
    "worlds": {
-    "MT": {
-     "wins": 1,
-     "losses": 0
-    },
     "MZ": {
-     "wins": 1,
+     "wins": 2,
      "losses": 1
     }
    }
