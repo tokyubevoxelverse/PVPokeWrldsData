@@ -1,5 +1,5 @@
 {
- "updated": 1793276159,
+ "updated": 1793276276,
  "trainers": 29,
  "worlds": {
   "MZ": "Mesagoza",
@@ -30,6 +30,19 @@
   },
   {
    "rank": 2,
+   "name": "ScarsUpload",
+   "wins": 18,
+   "losses": 19,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 18,
+     "losses": 19
+    }
+   }
+  },
+  {
+   "rank": 3,
    "name": "༺NecroEclipse༻",
    "wins": 13,
    "losses": 4,
@@ -46,7 +59,7 @@
    }
   },
   {
-   "rank": 3,
+   "rank": 4,
    "name": "H2OCrow",
    "wins": 12,
    "losses": 10,
@@ -63,20 +76,24 @@
    }
   },
   {
-   "rank": 4,
-   "name": "ScarsUpload",
-   "wins": 12,
-   "losses": 18,
+   "rank": 5,
+   "name": "Ttv․LimitlessMonster f6eb",
+   "wins": 8,
+   "losses": 2,
    "tier": 0,
    "worlds": {
+    "MT": {
+     "wins": 0,
+     "losses": 0
+    },
     "MZ": {
-     "wins": 12,
-     "losses": 18
+     "wins": 8,
+     "losses": 2
     }
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "name": "Rącooną mätãtã",
    "wins": 8,
    "losses": 3,
@@ -89,7 +106,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "Raisi",
    "wins": 7,
    "losses": 4,
@@ -102,7 +119,7 @@
    }
   },
   {
-   "rank": 7,
+   "rank": 8,
    "name": "ThatOneGuy485",
    "wins": 4,
    "losses": 1,
@@ -119,7 +136,7 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -132,7 +149,7 @@
    }
   },
   {
-   "rank": 9,
+   "rank": 10,
    "name": "SleepySealxx",
    "wins": 4,
    "losses": 5,
@@ -141,23 +158,6 @@
     "MZ": {
      "wins": 4,
      "losses": 5
-    }
-   }
-  },
-  {
-   "rank": 10,
-   "name": "Ttv․LimitlessMonster f6eb",
-   "wins": 3,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MT": {
-     "wins": 0,
-     "losses": 0
-    },
-    "MZ": {
-     "wins": 3,
-     "losses": 0
     }
    }
   },
