@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793231926|10
+PVPOKE-BATTLES|2|1793232616|11
 1|H2OCrow|5|3|0
 2|Stonedgamer55|2|1|0
 3|TheKittyEmpurr|1|1|0
@@ -7,5 +7,6 @@ PVPOKE-BATTLES|2|1793231926|10
 6|༺NecroEclipse༻|0|0|0
 7|Raisi|0|0|0
 8|JohntheKeeper87|0|0|0
-9|Doughnut99 bd8a|0|1|0
-10|ScriptWizard|0|2|0
+9|blusquirrle|0|0|0
+10|Doughnut99 bd8a|0|1|0
+11|ScriptWizard|0|2|0
