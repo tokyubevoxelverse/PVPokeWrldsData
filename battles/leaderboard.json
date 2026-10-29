@@ -1,5 +1,5 @@
 {
- "updated": 1793232633,
+ "updated": 1793234608,
  "trainers": 12,
  "worlds": {
   "MZ": "Mesagoza",
@@ -52,6 +52,19 @@
   },
   {
    "rank": 4,
+   "name": "Raisi",
+   "wins": 1,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 5,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -64,7 +77,7 @@
    }
   },
   {
-   "rank": 5,
+   "rank": 6,
    "name": "GoofyLeopard7263 c9d6",
    "wins": 1,
    "losses": 1,
@@ -77,7 +90,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "Bulbaboi",
    "wins": 1,
    "losses": 4,
@@ -90,21 +103,8 @@
    }
   },
   {
-   "rank": 7,
-   "name": "༺NecroEclipse༻",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
    "rank": 8,
-   "name": "Raisi",
+   "name": "༺NecroEclipse༻",
    "wins": 0,
    "losses": 0,
    "tier": 0,
