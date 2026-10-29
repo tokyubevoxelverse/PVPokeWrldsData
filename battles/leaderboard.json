@@ -1,5 +1,5 @@
 {
- "updated": 1793266526,
+ "updated": 1793266743,
  "trainers": 27,
  "worlds": {
   "MZ": "Mesagoza",
@@ -129,6 +129,23 @@
   },
   {
    "rank": 9,
+   "name": "Ttv․LimitlessMonster f6eb",
+   "wins": 3,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MT": {
+     "wins": 0,
+     "losses": 0
+    },
+    "MZ": {
+     "wins": 3,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 10,
    "name": "blusquirrle",
    "wins": 3,
    "losses": 1,
@@ -141,7 +158,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "PossibilityFiel",
    "wins": 3,
    "losses": 3,
@@ -154,7 +171,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -167,7 +184,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -180,7 +197,7 @@
    }
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "DemEntedsmilE",
    "wins": 2,
    "losses": 1,
@@ -193,7 +210,7 @@
    }
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "ᴊᴠᴅᴇ",
    "wins": 2,
    "losses": 1,
@@ -206,7 +223,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 5,
@@ -219,7 +236,7 @@
    }
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "ĸīᴦἀᵭīἀռȼҽ",
    "wins": 1,
    "losses": 0,
@@ -232,7 +249,7 @@
    }
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -245,7 +262,7 @@
    }
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "Venom258 76e0",
    "wins": 1,
    "losses": 2,
@@ -258,7 +275,7 @@
    }
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -271,7 +288,7 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
@@ -284,26 +301,13 @@
    }
   },
   {
-   "rank": 21,
+   "rank": 22,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 22,
-   "name": "Ttv․LimitlessMonster f6eb",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MT": {
      "wins": 0,
      "losses": 0
     }
