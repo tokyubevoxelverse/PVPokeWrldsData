@@ -1,5 +1,5 @@
 {
- "updated": 1793235010,
+ "updated": 1793235505,
  "trainers": 13,
  "worlds": {
   "MZ": "Mesagoza",
@@ -26,6 +26,19 @@
   },
   {
    "rank": 2,
+   "name": "Raisi",
+   "wins": 2,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 3,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 1,
@@ -38,21 +51,8 @@
    }
   },
   {
-   "rank": 3,
-   "name": "Ghost 6465",
-   "wins": 1,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 0
-    }
-   }
-  },
-  {
    "rank": 4,
-   "name": "Raisi",
+   "name": "Ghost 6465",
    "wins": 1,
    "losses": 0,
    "tier": 0,
