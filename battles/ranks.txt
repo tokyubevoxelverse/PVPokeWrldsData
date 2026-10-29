@@ -1,7 +1,7 @@
-PVPOKE-BATTLES|2|1793299710|30
+PVPOKE-BATTLES|2|1793299833|30
 1|GoofyLeopard7263 c9d6|27|7|0
 2|ScarsUpload|20|23|0
-3|༺NecroEclipse༻|16|6|0
+3|༺NecroEclipse༻|18|6|0
 4|Rącooną mätãtã|15|6|0
 5|H2OCrow|15|10|0
 6|Ttv․LimitlessMonster f6eb|10|3|0
@@ -9,10 +9,10 @@ PVPOKE-BATTLES|2|1793299710|30
 8|ThatOneGuy485|9|2|0
 9|SleepySealxx|9|6|0
 10|ᴊᴠᴅᴇ|5|1|0
-11|Bulbaboi|4|5|0
-12|Dingus_109|4|7|0
-13|blusquirrle|3|1|0
-14|Ghost 6465|3|1|0
+11|Ghost 6465|4|2|0
+12|Bulbaboi|4|5|0
+13|Dingus_109|4|8|0
+14|blusquirrle|3|1|0
 15|PossibilityFiel|3|3|0
 16|YuukiKuratosh1|2|0|0
 17|DemEntedsmilE|2|1|0
