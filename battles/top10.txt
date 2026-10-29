@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|1|1793265990|27
+PVPOKE-BATTLES|1|1793266526|27
 1|GoofyLeopard7263 c9d6|23|5|0
 2|༺NecroEclipse༻|13|3|0
 3|H2OCrow|12|10|0
@@ -8,4 +8,4 @@ PVPOKE-BATTLES|1|1793265990|27
 7|Bulbaboi|4|5|0
 8|SleepySealxx|4|5|0
 9|blusquirrle|3|1|0
-10|YuukiKuratosh1|2|0|0
+10|PossibilityFiel|3|3|0
