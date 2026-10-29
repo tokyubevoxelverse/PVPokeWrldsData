@@ -1,5 +1,5 @@
 {
- "updated": 1793243620,
+ "updated": 1793244197,
  "trainers": 22,
  "worlds": {
   "MZ": "Mesagoza",
@@ -95,6 +95,19 @@
   },
   {
    "rank": 7,
+   "name": "blusquirrle",
+   "wins": 2,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 8,
    "name": "Raisi",
    "wins": 2,
    "losses": 1,
@@ -107,7 +120,7 @@
    }
   },
   {
-   "rank": 8,
+   "rank": 9,
    "name": "Ghost 6465",
    "wins": 2,
    "losses": 1,
@@ -120,7 +133,7 @@
    }
   },
   {
-   "rank": 9,
+   "rank": 10,
    "name": "SleepySealxx",
    "wins": 2,
    "losses": 3,
@@ -133,7 +146,7 @@
    }
   },
   {
-   "rank": 10,
+   "rank": 11,
    "name": "Stonedgamer55",
    "wins": 2,
    "losses": 3,
@@ -146,7 +159,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "ThatOneGuy485",
    "wins": 1,
    "losses": 0,
@@ -159,7 +172,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -172,7 +185,7 @@
    }
   },
   {
-   "rank": 13,
+   "rank": 14,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -185,21 +198,8 @@
    }
   },
   {
-   "rank": 14,
-   "name": "JohntheKeeper87",
-   "wins": 0,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
    "rank": 15,
-   "name": "blusquirrle",
+   "name": "JohntheKeeper87",
    "wins": 0,
    "losses": 0,
    "tier": 0,
