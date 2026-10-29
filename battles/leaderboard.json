@@ -1,5 +1,5 @@
 {
- "updated": 1793277446,
+ "updated": 1793277665,
  "trainers": 30,
  "worlds": {
   "MZ": "Mesagoza",
@@ -31,12 +31,12 @@
   {
    "rank": 2,
    "name": "ScarsUpload",
-   "wins": 18,
+   "wins": 19,
    "losses": 19,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 18,
+     "wins": 19,
      "losses": 19
     }
    }
