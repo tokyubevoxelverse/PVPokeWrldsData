@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793318756|36
+PVPOKE-BATTLES|2|1793319481|36
 1|GoofyLeopard7263 c9d6|30|9|0
 2|༺NecroEclipse༻|25|7|0
 3|ScarsUpload|20|23|0
@@ -27,7 +27,7 @@ PVPOKE-BATTLES|2|1793318756|36
 26|°Maroon-Incubi°|1|1|0
 27|Venom258 76e0|1|2|0
 28|Eren dragneel|1|3|0
-29|JohntheKeeper87|0|0|0
+29|JohntheKeeper87|1|3|0
 30|ShadowAinz|0|0|0
 31|ShadowKarma20|0|0|0
 32|ArchetypeB|0|0|0

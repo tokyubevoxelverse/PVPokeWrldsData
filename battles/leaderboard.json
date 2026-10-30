@@ -1,5 +1,5 @@
 {
- "updated": 1793318756,
+ "updated": 1793319481,
  "trainers": 36,
  "worlds": {
   "MZ": "Mesagoza",
@@ -407,13 +407,13 @@
   {
    "rank": 29,
    "name": "JohntheKeeper87",
-   "wins": 0,
-   "losses": 0,
+   "wins": 1,
+   "losses": 3,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 0,
-     "losses": 0
+     "wins": 1,
+     "losses": 3
     }
    }
   },
