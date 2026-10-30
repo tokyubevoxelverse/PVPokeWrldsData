@@ -1,5 +1,5 @@
 {
- "updated": 1793320498,
+ "updated": 1793321838,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -31,6 +31,19 @@
   },
   {
    "rank": 2,
+   "name": "Rącooną mätãtã",
+   "wins": 25,
+   "losses": 6,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 25,
+     "losses": 6
+    }
+   }
+  },
+  {
+   "rank": 3,
    "name": "༺NecroEclipse༻",
    "wins": 25,
    "losses": 7,
@@ -47,7 +60,7 @@
    }
   },
   {
-   "rank": 3,
+   "rank": 4,
    "name": "ScarsUpload",
    "wins": 20,
    "losses": 23,
@@ -60,7 +73,7 @@
    }
   },
   {
-   "rank": 4,
+   "rank": 5,
    "name": "H2OCrow",
    "wins": 16,
    "losses": 11,
@@ -73,19 +86,6 @@
     "MT": {
      "wins": 1,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 5,
-   "name": "Rącooną mätãtã",
-   "wins": 15,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 15,
-     "losses": 6
     }
    }
   },
