@@ -1,5 +1,5 @@
 {
- "updated": 1793399134,
+ "updated": 1793404385,
  "trainers": 40,
  "worlds": {
   "MZ": "Mesagoza",
@@ -78,6 +78,19 @@
   },
   {
    "rank": 5,
+   "name": "SleepySealxx",
+   "wins": 25,
+   "losses": 18,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 25,
+     "losses": 18
+    }
+   }
+  },
+  {
+   "rank": 6,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 24,
    "losses": 12,
@@ -90,19 +103,6 @@
     "MZ": {
      "wins": 18,
      "losses": 10
-    }
-   }
-  },
-  {
-   "rank": 6,
-   "name": "SleepySealxx",
-   "wins": 23,
-   "losses": 12,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 23,
-     "losses": 12
     }
    }
   },
