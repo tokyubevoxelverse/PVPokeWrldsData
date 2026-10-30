@@ -1,5 +1,5 @@
 {
- "updated": 1793340111,
+ "updated": 1793343179,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -267,6 +267,19 @@
   },
   {
    "rank": 18,
+   "name": "ĸīᴦἀᵭīἀռȼҽ",
+   "wins": 3,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 3,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 19,
    "name": "blusquirrle",
    "wins": 3,
    "losses": 1,
@@ -279,7 +292,7 @@
    }
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "PossibilityFiel",
    "wins": 3,
    "losses": 3,
@@ -292,7 +305,7 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -305,7 +318,7 @@
    }
   },
   {
-   "rank": 21,
+   "rank": 22,
    "name": "DemEntedsmilE",
    "wins": 2,
    "losses": 1,
@@ -318,7 +331,7 @@
    }
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "Doughnut99 bd8a",
    "wins": 2,
    "losses": 2,
@@ -331,7 +344,7 @@
    }
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "Snorxtori",
    "wins": 2,
    "losses": 4,
@@ -344,7 +357,7 @@
    }
   },
   {
-   "rank": 24,
+   "rank": 25,
    "name": "CosmicSeal9875 9bcf",
    "wins": 2,
    "losses": 6,
@@ -353,19 +366,6 @@
     "MZ": {
      "wins": 2,
      "losses": 6
-    }
-   }
-  },
-  {
-   "rank": 25,
-   "name": "ĸīᴦἀᵭīἀռȼҽ",
-   "wins": 1,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 0
     }
    }
   },
