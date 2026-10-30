@@ -1,6 +1,6 @@
 {
- "updated": 1793379737,
- "trainers": 39,
+ "updated": 1793379934,
+ "trainers": 40,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -345,6 +345,19 @@
   },
   {
    "rank": 24,
+   "name": "Mãlaga",
+   "wins": 2,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 2
+    }
+   }
+  },
+  {
+   "rank": 25,
    "name": "Snorxtori",
    "wins": 2,
    "losses": 4,
@@ -357,7 +370,7 @@
    }
   },
   {
-   "rank": 25,
+   "rank": 26,
    "name": "CosmicSeal9875 9bcf",
    "wins": 2,
    "losses": 6,
@@ -370,7 +383,7 @@
    }
   },
   {
-   "rank": 26,
+   "rank": 27,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -383,7 +396,7 @@
    }
   },
   {
-   "rank": 27,
+   "rank": 28,
    "name": "°Maroon-Incubi°",
    "wins": 1,
    "losses": 1,
@@ -396,7 +409,7 @@
    }
   },
   {
-   "rank": 28,
+   "rank": 29,
    "name": "Eren dragneel",
    "wins": 1,
    "losses": 3,
@@ -409,7 +422,7 @@
    }
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "JohntheKeeper87",
    "wins": 1,
    "losses": 3,
@@ -422,7 +435,7 @@
    }
   },
   {
-   "rank": 30,
+   "rank": 31,
    "name": "Prøtø_bīrb",
    "wins": 1,
    "losses": 4,
@@ -435,7 +448,7 @@
    }
   },
   {
-   "rank": 31,
+   "rank": 32,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -448,7 +461,7 @@
    }
   },
   {
-   "rank": 32,
+   "rank": 33,
    "name": "ShadowKarma20",
    "wins": 0,
    "losses": 0,
@@ -461,7 +474,7 @@
    }
   },
   {
-   "rank": 33,
+   "rank": 34,
    "name": "ArchetypeB",
    "wins": 0,
    "losses": 0,
@@ -474,7 +487,7 @@
    }
   },
   {
-   "rank": 34,
+   "rank": 35,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -487,7 +500,7 @@
    }
   },
   {
-   "rank": 35,
+   "rank": 36,
    "name": "ajthe0",
    "wins": 0,
    "losses": 1,
@@ -500,7 +513,7 @@
    }
   },
   {
-   "rank": 36,
+   "rank": 37,
    "name": "OompaLoopas",
    "wins": 0,
    "losses": 1,
@@ -513,7 +526,7 @@
    }
   },
   {
-   "rank": 37,
+   "rank": 38,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -526,7 +539,7 @@
    }
   },
   {
-   "rank": 38,
+   "rank": 39,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 2,
@@ -543,7 +556,7 @@
    }
   },
   {
-   "rank": 39,
+   "rank": 40,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 9,
