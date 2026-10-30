@@ -1,5 +1,5 @@
 {
- "updated": 1793391893,
+ "updated": 1793392597,
  "trainers": 40,
  "worlds": {
   "MZ": "Mesagoza",
@@ -194,6 +194,19 @@
   },
   {
    "rank": 13,
+   "name": "Doughnut99 bd8a",
+   "wins": 9,
+   "losses": 12,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 9,
+     "losses": 12
+    }
+   }
+  },
+  {
+   "rank": 14,
    "name": "ᴊᴠᴅᴇ",
    "wins": 7,
    "losses": 2,
@@ -210,7 +223,7 @@
    }
   },
   {
-   "rank": 14,
+   "rank": 15,
    "name": "Stonedgamer55",
    "wins": 6,
    "losses": 11,
@@ -223,7 +236,7 @@
    }
   },
   {
-   "rank": 15,
+   "rank": 16,
    "name": "Dingus_109",
    "wins": 5,
    "losses": 11,
@@ -240,7 +253,7 @@
    }
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "CosmicSeal9875 9bcf",
    "wins": 5,
    "losses": 11,
@@ -253,7 +266,7 @@
    }
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "ĸīᴦἀᵭīἀռȼҽ",
    "wins": 4,
    "losses": 0,
@@ -266,7 +279,7 @@
    }
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "Decker817",
    "wins": 4,
    "losses": 1,
@@ -279,7 +292,7 @@
    }
   },
   {
-   "rank": 19,
+   "rank": 20,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -292,7 +305,7 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "blusquirrle",
    "wins": 3,
    "losses": 1,
@@ -305,7 +318,7 @@
    }
   },
   {
-   "rank": 21,
+   "rank": 22,
    "name": "PossibilityFiel",
    "wins": 3,
    "losses": 3,
@@ -318,7 +331,7 @@
    }
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -331,7 +344,7 @@
    }
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "DemEntedsmilE",
    "wins": 2,
    "losses": 1,
@@ -340,19 +353,6 @@
     "MZ": {
      "wins": 2,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 24,
-   "name": "Doughnut99 bd8a",
-   "wins": 2,
-   "losses": 2,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 2
     }
    }
   },
