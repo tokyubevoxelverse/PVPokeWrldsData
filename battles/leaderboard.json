@@ -1,5 +1,5 @@
 {
- "updated": 1793335028,
+ "updated": 1793335193,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -164,6 +164,19 @@
   },
   {
    "rank": 11,
+   "name": "Ghost 6465",
+   "wins": 10,
+   "losses": 5,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 10,
+     "losses": 5
+    }
+   }
+  },
+  {
+   "rank": 12,
    "name": "ThatOneGuy485",
    "wins": 10,
    "losses": 7,
@@ -180,7 +193,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "ᴊᴠᴅᴇ",
    "wins": 7,
    "losses": 2,
@@ -193,19 +206,6 @@
     "MT": {
      "wins": 2,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 13,
-   "name": "Ghost 6465",
-   "wins": 7,
-   "losses": 3,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 7,
-     "losses": 3
     }
    }
   },
