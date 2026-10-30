@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793355033|38
+PVPOKE-BATTLES|2|1793356207|38
 1|GoofyLeopard7263 c9d6|42|12|0
 2|Rącooną mätãtã|37|6|0
 3|༺NecroEclipse༻|27|7|0
@@ -12,7 +12,7 @@ PVPOKE-BATTLES|2|1793355033|38
 11|Ghost 6465|10|5|0
 12|ThatOneGuy485|10|7|0
 13|ᴊᴠᴅᴇ|7|2|0
-14|Stonedgamer55|6|9|0
+14|Stonedgamer55|6|10|0
 15|ĸīᴦἀᵭīἀռȼҽ|4|0|0
 16|Decker817|4|1|0
 17|Bulbaboi|4|5|0
