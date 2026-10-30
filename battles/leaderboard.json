@@ -1,5 +1,5 @@
 {
- "updated": 1793318345,
+ "updated": 1793318756,
  "trainers": 36,
  "worlds": {
   "MZ": "Mesagoza",
@@ -135,8 +135,8 @@
   {
    "rank": 9,
    "name": "ThatOneGuy485",
-   "wins": 9,
-   "losses": 2,
+   "wins": 10,
+   "losses": 6,
    "tier": 0,
    "worlds": {
     "MT": {
@@ -144,8 +144,8 @@
      "losses": 0
     },
     "MZ": {
-     "wins": 8,
-     "losses": 2
+     "wins": 9,
+     "losses": 6
     }
    }
   },
