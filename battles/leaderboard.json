@@ -1,6 +1,6 @@
 {
- "updated": 1793319481,
- "trainers": 36,
+ "updated": 1793319555,
+ "trainers": 37,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -15,7 +15,7 @@
   {
    "rank": 1,
    "name": "GoofyLeopard7263 c9d6",
-   "wins": 30,
+   "wins": 31,
    "losses": 9,
    "tier": 0,
    "worlds": {
@@ -24,7 +24,7 @@
      "losses": 9
     },
     "MT": {
-     "wins": 3,
+     "wins": 4,
      "losses": 0
     }
    }
@@ -152,12 +152,12 @@
   {
    "rank": 10,
    "name": "連続THEGOODGUY 凶漢",
-   "wins": 7,
+   "wins": 8,
    "losses": 1,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 7,
+     "wins": 8,
      "losses": 1
     }
    }
@@ -419,6 +419,19 @@
   },
   {
    "rank": 30,
+   "name": "Prøtø_bīrb",
+   "wins": 1,
+   "losses": 4,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 4
+    }
+   }
+  },
+  {
+   "rank": 31,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -431,7 +444,7 @@
    }
   },
   {
-   "rank": 31,
+   "rank": 32,
    "name": "ShadowKarma20",
    "wins": 0,
    "losses": 0,
@@ -444,7 +457,7 @@
    }
   },
   {
-   "rank": 32,
+   "rank": 33,
    "name": "ArchetypeB",
    "wins": 0,
    "losses": 0,
@@ -457,7 +470,7 @@
    }
   },
   {
-   "rank": 33,
+   "rank": 34,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -470,7 +483,7 @@
    }
   },
   {
-   "rank": 34,
+   "rank": 35,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 1,
@@ -487,7 +500,7 @@
    }
   },
   {
-   "rank": 35,
+   "rank": 36,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -500,7 +513,7 @@
    }
   },
   {
-   "rank": 36,
+   "rank": 37,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 6,

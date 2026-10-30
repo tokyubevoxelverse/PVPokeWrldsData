@@ -1,5 +1,5 @@
-PVPOKE-BATTLES|2|1793319481|36
-1|GoofyLeopard7263 c9d6|30|9|0
+PVPOKE-BATTLES|2|1793319555|37
+1|GoofyLeopard7263 c9d6|31|9|0
 2|༺NecroEclipse༻|25|7|0
 3|ScarsUpload|20|23|0
 4|H2OCrow|16|11|0
@@ -8,7 +8,7 @@ PVPOKE-BATTLES|2|1793319481|36
 7|Raisi|13|7|0
 8|Ttv․LimitlessMonster f6eb|10|3|0
 9|ThatOneGuy485|10|6|0
-10|連続THEGOODGUY 凶漢|7|1|0
+10|連続THEGOODGUY 凶漢|8|1|0
 11|ᴊᴠᴅᴇ|7|2|0
 12|Ghost 6465|7|3|0
 13|Decker817|4|1|0
@@ -28,10 +28,11 @@ PVPOKE-BATTLES|2|1793319481|36
 27|Venom258 76e0|1|2|0
 28|Eren dragneel|1|3|0
 29|JohntheKeeper87|1|3|0
-30|ShadowAinz|0|0|0
-31|ShadowKarma20|0|0|0
-32|ArchetypeB|0|0|0
-33|Kyubiscus|0|1|0
-34|XxZombieFanxX|0|1|0
-35|BarbGoesLooney|0|2|0
-36|ScriptWizard|0|6|0
+30|Prøtø_bīrb|1|4|0
+31|ShadowAinz|0|0|0
+32|ShadowKarma20|0|0|0
+33|ArchetypeB|0|0|0
+34|Kyubiscus|0|1|0
+35|XxZombieFanxX|0|1|0
+36|BarbGoesLooney|0|2|0
+37|ScriptWizard|0|6|0

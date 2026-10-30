@@ -1,5 +1,5 @@
-PVPOKE-BATTLES|1|1793319481|36
-1|GoofyLeopard7263 c9d6|30|9|0
+PVPOKE-BATTLES|1|1793319555|37
+1|GoofyLeopard7263 c9d6|31|9|0
 2|༺NecroEclipse༻|25|7|0
 3|ScarsUpload|20|23|0
 4|H2OCrow|16|11|0
@@ -8,4 +8,4 @@ PVPOKE-BATTLES|1|1793319481|36
 7|Raisi|13|7|0
 8|Ttv․LimitlessMonster f6eb|10|3|0
 9|ThatOneGuy485|10|6|0
-10|連続THEGOODGUY 凶漢|7|1|0
+10|連続THEGOODGUY 凶漢|8|1|0
