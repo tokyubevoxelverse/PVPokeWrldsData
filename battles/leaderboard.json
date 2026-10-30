@@ -1,5 +1,5 @@
 {
- "updated": 1793327286,
+ "updated": 1793328691,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -105,12 +105,12 @@
   {
    "rank": 7,
    "name": "Raisi",
-   "wins": 14,
+   "wins": 15,
    "losses": 7,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 14,
+     "wins": 15,
      "losses": 7
     }
    }
