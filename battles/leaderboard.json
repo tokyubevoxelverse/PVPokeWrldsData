@@ -1,5 +1,5 @@
 {
- "updated": 1793331934,
+ "updated": 1793332946,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -135,12 +135,12 @@
   {
    "rank": 9,
    "name": "連続THEGOODGUY 凶漢",
-   "wins": 10,
+   "wins": 12,
    "losses": 2,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 10,
+     "wins": 12,
      "losses": 2
     }
    }
