@@ -1,5 +1,5 @@
 {
- "updated": 1793343179,
+ "updated": 1793344279,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -224,6 +224,19 @@
   },
   {
    "rank": 15,
+   "name": "ĸīᴦἀᵭīἀռȼҽ",
+   "wins": 4,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 4,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 16,
    "name": "Decker817",
    "wins": 4,
    "losses": 1,
@@ -236,7 +249,7 @@
    }
   },
   {
-   "rank": 16,
+   "rank": 17,
    "name": "Bulbaboi",
    "wins": 4,
    "losses": 5,
@@ -249,7 +262,7 @@
    }
   },
   {
-   "rank": 17,
+   "rank": 18,
    "name": "Dingus_109",
    "wins": 4,
    "losses": 11,
@@ -262,19 +275,6 @@
     "MT": {
      "wins": 4,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 18,
-   "name": "ĸīᴦἀᵭīἀռȼҽ",
-   "wins": 3,
-   "losses": 0,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 3,
-     "losses": 0
     }
    }
   },
