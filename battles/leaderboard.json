@@ -1,5 +1,5 @@
 {
- "updated": 1793361468,
+ "updated": 1793361635,
  "trainers": 39,
  "worlds": {
   "MZ": "Mesagoza",
@@ -488,23 +488,6 @@
   },
   {
    "rank": 35,
-   "name": "XxZombieFanxX",
-   "wins": 0,
-   "losses": 1,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 1
-    },
-    "MT": {
-     "wins": 0,
-     "losses": 0
-    }
-   }
-  },
-  {
-   "rank": 36,
    "name": "ajthe0",
    "wins": 0,
    "losses": 1,
@@ -517,7 +500,7 @@
    }
   },
   {
-   "rank": 37,
+   "rank": 36,
    "name": "OompaLoopas",
    "wins": 0,
    "losses": 1,
@@ -530,7 +513,7 @@
    }
   },
   {
-   "rank": 38,
+   "rank": 37,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -539,6 +522,23 @@
     "MZ": {
      "wins": 0,
      "losses": 2
+    }
+   }
+  },
+  {
+   "rank": 38,
+   "name": "XxZombieFanxX",
+   "wins": 0,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 2
+    },
+    "MT": {
+     "wins": 0,
+     "losses": 0
     }
    }
   },
