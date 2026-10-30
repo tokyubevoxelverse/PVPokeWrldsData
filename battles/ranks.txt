@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793337033|38
+PVPOKE-BATTLES|2|1793338258|38
 1|GoofyLeopard7263 c9d6|39|10|0
 2|Rącooną mätãtã|31|6|0
 3|༺NecroEclipse༻|27|7|0
@@ -17,12 +17,12 @@ PVPOKE-BATTLES|2|1793337033|38
 16|Dingus_109|4|11|0
 17|blusquirrle|3|1|0
 18|PossibilityFiel|3|3|0
-19|YuukiKuratosh1|2|0|0
-20|DemEntedsmilE|2|1|0
-21|Doughnut99 bd8a|2|2|0
-22|Snorxtori|2|4|0
-23|CosmicSeal9875 9bcf|2|6|0
-24|Stonedgamer55|2|8|0
+19|Stonedgamer55|3|8|0
+20|YuukiKuratosh1|2|0|0
+21|DemEntedsmilE|2|1|0
+22|Doughnut99 bd8a|2|2|0
+23|Snorxtori|2|4|0
+24|CosmicSeal9875 9bcf|2|6|0
 25|ĸīᴦἀᵭīἀռȼҽ|1|0|0
 26|TheKittyEmpurr|1|1|0
 27|°Maroon-Incubi°|1|1|0

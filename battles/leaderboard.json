@@ -1,5 +1,5 @@
 {
- "updated": 1793337033,
+ "updated": 1793338258,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -280,6 +280,19 @@
   },
   {
    "rank": 19,
+   "name": "Stonedgamer55",
+   "wins": 3,
+   "losses": 8,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 3,
+     "losses": 8
+    }
+   }
+  },
+  {
+   "rank": 20,
    "name": "YuukiKuratosh1",
    "wins": 2,
    "losses": 0,
@@ -292,7 +305,7 @@
    }
   },
   {
-   "rank": 20,
+   "rank": 21,
    "name": "DemEntedsmilE",
    "wins": 2,
    "losses": 1,
@@ -305,7 +318,7 @@
    }
   },
   {
-   "rank": 21,
+   "rank": 22,
    "name": "Doughnut99 bd8a",
    "wins": 2,
    "losses": 2,
@@ -318,7 +331,7 @@
    }
   },
   {
-   "rank": 22,
+   "rank": 23,
    "name": "Snorxtori",
    "wins": 2,
    "losses": 4,
@@ -331,7 +344,7 @@
    }
   },
   {
-   "rank": 23,
+   "rank": 24,
    "name": "CosmicSeal9875 9bcf",
    "wins": 2,
    "losses": 6,
@@ -340,19 +353,6 @@
     "MZ": {
      "wins": 2,
      "losses": 6
-    }
-   }
-  },
-  {
-   "rank": 24,
-   "name": "Stonedgamer55",
-   "wins": 2,
-   "losses": 8,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 2,
-     "losses": 8
     }
    }
   },
