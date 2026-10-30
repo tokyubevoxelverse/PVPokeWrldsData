@@ -1,5 +1,5 @@
 {
- "updated": 1793384214,
+ "updated": 1793385106,
  "trainers": 40,
  "worlds": {
   "MZ": "Mesagoza",
@@ -91,6 +91,23 @@
   },
   {
    "rank": 6,
+   "name": "H2OCrow",
+   "wins": 20,
+   "losses": 12,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 19,
+     "losses": 11
+    },
+    "MT": {
+     "wins": 1,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 7,
    "name": "ScarsUpload",
    "wins": 20,
    "losses": 23,
@@ -99,23 +116,6 @@
     "MZ": {
      "wins": 20,
      "losses": 23
-    }
-   }
-  },
-  {
-   "rank": 7,
-   "name": "H2OCrow",
-   "wins": 18,
-   "losses": 12,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 17,
-     "losses": 11
-    },
-    "MT": {
-     "wins": 1,
-     "losses": 1
     }
    }
   },
