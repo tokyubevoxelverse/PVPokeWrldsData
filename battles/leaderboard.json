@@ -1,5 +1,5 @@
 {
- "updated": 1793383101,
+ "updated": 1793384214,
  "trainers": 40,
  "worlds": {
   "MZ": "Mesagoza",
@@ -78,6 +78,19 @@
   },
   {
    "rank": 5,
+   "name": "SleepySealxx",
+   "wins": 20,
+   "losses": 12,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 20,
+     "losses": 12
+    }
+   }
+  },
+  {
+   "rank": 6,
    "name": "ScarsUpload",
    "wins": 20,
    "losses": 23,
@@ -90,7 +103,7 @@
    }
   },
   {
-   "rank": 6,
+   "rank": 7,
    "name": "H2OCrow",
    "wins": 18,
    "losses": 12,
@@ -103,19 +116,6 @@
     "MT": {
      "wins": 1,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 7,
-   "name": "SleepySealxx",
-   "wins": 18,
-   "losses": 12,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 18,
-     "losses": 12
     }
    }
   },
