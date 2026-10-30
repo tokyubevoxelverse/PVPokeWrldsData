@@ -1,5 +1,5 @@
 {
- "updated": 1793393479,
+ "updated": 1793394152,
  "trainers": 40,
  "worlds": {
   "MZ": "Mesagoza",
@@ -61,6 +61,23 @@
   },
   {
    "rank": 4,
+   "name": "H2OCrow",
+   "wins": 26,
+   "losses": 13,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 25,
+     "losses": 12
+    },
+    "MT": {
+     "wins": 1,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 5,
    "name": "Ttv․LimitlessMonster f6eb",
    "wins": 24,
    "losses": 12,
@@ -73,23 +90,6 @@
     "MZ": {
      "wins": 18,
      "losses": 10
-    }
-   }
-  },
-  {
-   "rank": 5,
-   "name": "H2OCrow",
-   "wins": 24,
-   "losses": 13,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 23,
-     "losses": 12
-    },
-    "MT": {
-     "wins": 1,
-     "losses": 1
     }
    }
   },
