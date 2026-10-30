@@ -1,5 +1,5 @@
 {
- "updated": 1793323793,
+ "updated": 1793324074,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -92,13 +92,13 @@
   {
    "rank": 6,
    "name": "SleepySealxx",
-   "wins": 14,
-   "losses": 10,
+   "wins": 16,
+   "losses": 11,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 14,
-     "losses": 10
+     "wins": 16,
+     "losses": 11
     }
    }
   },
