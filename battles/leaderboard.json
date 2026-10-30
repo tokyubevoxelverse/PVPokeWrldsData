@@ -1,5 +1,5 @@
 {
- "updated": 1793324303,
+ "updated": 1793325551,
  "trainers": 38,
  "worlds": {
   "MZ": "Mesagoza",
@@ -529,12 +529,12 @@
    "rank": 38,
    "name": "ScriptWizard",
    "wins": 0,
-   "losses": 6,
+   "losses": 9,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 0,
-     "losses": 4
+     "losses": 7
     },
     "MT": {
      "wins": 0,
