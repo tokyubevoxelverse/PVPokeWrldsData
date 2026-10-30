@@ -1,6 +1,6 @@
 {
- "updated": 1793359612,
- "trainers": 38,
+ "updated": 1793361468,
+ "trainers": 39,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -518,6 +518,19 @@
   },
   {
    "rank": 37,
+   "name": "OompaLoopas",
+   "wins": 0,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 38,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -530,7 +543,7 @@
    }
   },
   {
-   "rank": 38,
+   "rank": 39,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 9,
