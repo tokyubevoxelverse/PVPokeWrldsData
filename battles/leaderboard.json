@@ -1,5 +1,5 @@
 {
- "updated": 1793388865,
+ "updated": 1793388934,
  "trainers": 40,
  "worlds": {
   "MZ": "Mesagoza",
@@ -347,12 +347,12 @@
    "rank": 24,
    "name": "Mãlaga",
    "wins": 2,
-   "losses": 2,
+   "losses": 3,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 2,
-     "losses": 2
+     "losses": 3
     }
    }
   },

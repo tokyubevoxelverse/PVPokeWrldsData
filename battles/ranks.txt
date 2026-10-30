@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793388865|40
+PVPOKE-BATTLES|2|1793388934|40
 1|GoofyLeopard7263 c9d6|46|12|0
 2|Rącooną mätãtã|42|7|0
 3|༺NecroEclipse༻|31|7|0
@@ -22,7 +22,7 @@ PVPOKE-BATTLES|2|1793388865|40
 21|YuukiKuratosh1|2|0|0
 22|DemEntedsmilE|2|1|0
 23|Doughnut99 bd8a|2|2|0
-24|Mãlaga|2|2|0
+24|Mãlaga|2|3|0
 25|Snorxtori|2|4|0
 26|CosmicSeal9875 9bcf|2|6|0
 27|TheKittyEmpurr|1|1|0
