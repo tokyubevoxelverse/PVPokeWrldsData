@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793471134|43
+PVPOKE-BATTLES|2|1793471262|43
 1|GoofyLeopard7263 c9d6|57|12|1
 2|Rącooną mätãtã|50|10|1
 3|༺NecroEclipse༻|43|14|0
@@ -16,7 +16,7 @@ PVPOKE-BATTLES|2|1793471134|43
 15|Prototype2_O|9|10|0
 16|ᴊᴠᴅᴇ|7|2|0
 17|CosmicSeal9875 9bcf|7|12|0
-18|Mãlaga|5|4|0
+18|Mãlaga|6|4|0
 19|Dingus_109|5|11|0
 20|ĸīᴦἀᵭīἀռȼҽ|4|0|0
 21|Decker817|4|1|0
