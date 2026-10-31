@@ -1,5 +1,5 @@
 {
- "updated": 1793424612,
+ "updated": 1793424887,
  "trainers": 41,
  "worlds": {
   "MZ": "Mesagoza",
@@ -321,12 +321,12 @@
    "rank": 22,
    "name": "PossibilityFiel",
    "wins": 3,
-   "losses": 4,
+   "losses": 5,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 3,
-     "losses": 3
+     "losses": 4
     },
     "MT": {
      "wins": 0,
