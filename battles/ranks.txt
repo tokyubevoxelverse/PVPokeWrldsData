@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793404385|40
+PVPOKE-BATTLES|2|1793405478|40
 1|GoofyLeopard7263 c9d6|50|12|1
 2|Rącooną mätãtã|42|7|0
 3|༺NecroEclipse༻|31|7|0
@@ -9,9 +9,9 @@ PVPOKE-BATTLES|2|1793404385|40
 8|Raisi|17|8|0
 9|連続THEGOODGUY 凶漢|15|7|0
 10|Venom258 76e0|14|24|0
-11|Ghost 6465|11|6|0
-12|ThatOneGuy485|10|7|0
-13|Doughnut99 bd8a|9|12|0
+11|Doughnut99 bd8a|13|13|0
+12|Ghost 6465|11|6|0
+13|ThatOneGuy485|10|7|0
 14|ᴊᴠᴅᴇ|7|2|0
 15|Stonedgamer55|6|11|0
 16|Dingus_109|5|11|0
