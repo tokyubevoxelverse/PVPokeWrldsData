@@ -1,5 +1,5 @@
 {
- "updated": 1793441255,
+ "updated": 1793445581,
  "trainers": 43,
  "worlds": {
   "MZ": "Mesagoza",
@@ -45,13 +45,13 @@
   {
    "rank": 3,
    "name": "༺NecroEclipse༻",
-   "wins": 40,
-   "losses": 10,
+   "wins": 41,
+   "losses": 11,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 40,
-     "losses": 9
+     "wins": 41,
+     "losses": 10
     },
     "MT": {
      "wins": 0,
