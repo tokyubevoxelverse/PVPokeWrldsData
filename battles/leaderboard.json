@@ -1,5 +1,5 @@
 {
- "updated": 1793461581,
+ "updated": 1793462297,
  "trainers": 43,
  "worlds": {
   "MZ": "Mesagoza",
@@ -375,20 +375,20 @@
   },
   {
    "rank": 26,
-   "name": "Mãlaga",
+   "name": "Snorxtori",
    "wins": 2,
-   "losses": 3,
+   "losses": 4,
    "tier": 0,
    "worlds": {
     "MZ": {
      "wins": 2,
-     "losses": 3
+     "losses": 4
     }
    }
   },
   {
    "rank": 27,
-   "name": "Snorxtori",
+   "name": "Mãlaga",
    "wins": 2,
    "losses": 4,
    "tier": 0,
