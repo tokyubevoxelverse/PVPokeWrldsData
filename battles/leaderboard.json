@@ -1,6 +1,6 @@
 {
- "updated": 1793408989,
- "trainers": 40,
+ "updated": 1793410321,
+ "trainers": 41,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -527,6 +527,19 @@
   },
   {
    "rank": 38,
+   "name": "Sark Sharper",
+   "wins": 0,
+   "losses": 1,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 0,
+     "losses": 1
+    }
+   }
+  },
+  {
+   "rank": 39,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -539,7 +552,7 @@
    }
   },
   {
-   "rank": 39,
+   "rank": 40,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 2,
@@ -556,7 +569,7 @@
    }
   },
   {
-   "rank": 40,
+   "rank": 41,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 9,

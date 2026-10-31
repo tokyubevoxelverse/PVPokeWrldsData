@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793408989|40
+PVPOKE-BATTLES|2|1793410321|41
 1|GoofyLeopard7263 c9d6|50|12|1
 2|Rącooną mätãtã|42|7|0
 3|༺NecroEclipse༻|38|10|0
@@ -36,6 +36,7 @@ PVPOKE-BATTLES|2|1793408989|40
 35|Kyubiscus|0|1|0
 36|ajthe0|0|1|0
 37|OompaLoopas|0|1|0
-38|BarbGoesLooney|0|2|0
-39|XxZombieFanxX|0|2|0
-40|ScriptWizard|0|9|0
+38|Sark Sharper|0|1|0
+39|BarbGoesLooney|0|2|0
+40|XxZombieFanxX|0|2|0
+41|ScriptWizard|0|9|0
