@@ -1,5 +1,5 @@
 {
- "updated": 1793460336,
+ "updated": 1793460481,
  "trainers": 43,
  "worlds": {
   "MZ": "Mesagoza",
@@ -453,6 +453,23 @@
   },
   {
    "rank": 32,
+   "name": "XxZombieFanxX",
+   "wins": 1,
+   "losses": 2,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 2
+    },
+    "MT": {
+     "wins": 0,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 33,
    "name": "JohntheKeeper87",
    "wins": 1,
    "losses": 3,
@@ -465,7 +482,7 @@
    }
   },
   {
-   "rank": 33,
+   "rank": 34,
    "name": "Prøtø_bīrb",
    "wins": 1,
    "losses": 4,
@@ -478,7 +495,7 @@
    }
   },
   {
-   "rank": 34,
+   "rank": 35,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -491,7 +508,7 @@
    }
   },
   {
-   "rank": 35,
+   "rank": 36,
    "name": "ShadowKarma20",
    "wins": 0,
    "losses": 0,
@@ -504,7 +521,7 @@
    }
   },
   {
-   "rank": 36,
+   "rank": 37,
    "name": "ArchetypeB",
    "wins": 0,
    "losses": 0,
@@ -517,7 +534,7 @@
    }
   },
   {
-   "rank": 37,
+   "rank": 38,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -530,7 +547,7 @@
    }
   },
   {
-   "rank": 38,
+   "rank": 39,
    "name": "ajthe0",
    "wins": 0,
    "losses": 1,
@@ -543,7 +560,7 @@
    }
   },
   {
-   "rank": 39,
+   "rank": 40,
    "name": "OompaLoopas",
    "wins": 0,
    "losses": 1,
@@ -556,7 +573,7 @@
    }
   },
   {
-   "rank": 40,
+   "rank": 41,
    "name": "Sark Sharper",
    "wins": 0,
    "losses": 1,
@@ -569,7 +586,7 @@
    }
   },
   {
-   "rank": 41,
+   "rank": 42,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -578,23 +595,6 @@
     "MZ": {
      "wins": 0,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 42,
-   "name": "XxZombieFanxX",
-   "wins": 0,
-   "losses": 2,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 0,
-     "losses": 2
-    },
-    "MT": {
-     "wins": 0,
-     "losses": 0
     }
    }
   },
