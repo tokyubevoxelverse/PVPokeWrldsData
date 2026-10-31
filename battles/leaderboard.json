@@ -1,5 +1,5 @@
 {
- "updated": 1793423388,
+ "updated": 1793424612,
  "trainers": 41,
  "worlds": {
   "MZ": "Mesagoza",
@@ -388,6 +388,19 @@
   },
   {
    "rank": 27,
+   "name": "Eren dragneel",
+   "wins": 2,
+   "losses": 7,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 2,
+     "losses": 7
+    }
+   }
+  },
+  {
+   "rank": 28,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -400,7 +413,7 @@
    }
   },
   {
-   "rank": 28,
+   "rank": 29,
    "name": "°Maroon-Incubi°",
    "wins": 1,
    "losses": 1,
@@ -409,19 +422,6 @@
     "MZ": {
      "wins": 1,
      "losses": 1
-    }
-   }
-  },
-  {
-   "rank": 29,
-   "name": "Eren dragneel",
-   "wins": 1,
-   "losses": 3,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 1,
-     "losses": 3
     }
    }
   },

@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793423388|41
+PVPOKE-BATTLES|2|1793424612|41
 1|GoofyLeopard7263 c9d6|51|12|1
 2|Rącooną mätãtã|49|9|0
 3|༺NecroEclipse༻|40|10|0
@@ -25,9 +25,9 @@ PVPOKE-BATTLES|2|1793423388|41
 24|DemEntedsmilE|2|1|0
 25|Mãlaga|2|3|0
 26|Snorxtori|2|4|0
-27|TheKittyEmpurr|1|1|0
-28|°Maroon-Incubi°|1|1|0
-29|Eren dragneel|1|3|0
+27|Eren dragneel|2|7|0
+28|TheKittyEmpurr|1|1|0
+29|°Maroon-Incubi°|1|1|0
 30|JohntheKeeper87|1|3|0
 31|Prøtø_bīrb|1|4|0
 32|ShadowAinz|0|0|0
