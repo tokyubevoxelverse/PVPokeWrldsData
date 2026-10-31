@@ -1,5 +1,5 @@
 {
- "updated": 1793467821,
+ "updated": 1793468133,
  "trainers": 43,
  "worlds": {
   "MZ": "Mesagoza",
@@ -147,6 +147,19 @@
   },
   {
    "rank": 10,
+   "name": "Ghost 6465",
+   "wins": 14,
+   "losses": 9,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 14,
+     "losses": 9
+    }
+   }
+  },
+  {
+   "rank": 11,
    "name": "Venom258 76e0",
    "wins": 14,
    "losses": 24,
@@ -163,7 +176,7 @@
    }
   },
   {
-   "rank": 11,
+   "rank": 12,
    "name": "Doughnut99 bd8a",
    "wins": 13,
    "losses": 13,
@@ -176,7 +189,7 @@
    }
   },
   {
-   "rank": 12,
+   "rank": 13,
    "name": "Stonedgamer55",
    "wins": 13,
    "losses": 14,
@@ -185,19 +198,6 @@
     "MZ": {
      "wins": 13,
      "losses": 14
-    }
-   }
-  },
-  {
-   "rank": 13,
-   "name": "Ghost 6465",
-   "wins": 11,
-   "losses": 6,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 11,
-     "losses": 6
     }
    }
   },
