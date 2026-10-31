@@ -1,5 +1,5 @@
 {
- "updated": 1793466991,
+ "updated": 1793467234,
  "trainers": 43,
  "worlds": {
   "MZ": "Mesagoza",
@@ -45,13 +45,13 @@
   {
    "rank": 3,
    "name": "༺NecroEclipse༻",
-   "wins": 41,
-   "losses": 11,
+   "wins": 43,
+   "losses": 14,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 41,
-     "losses": 10
+     "wins": 43,
+     "losses": 13
     },
     "MT": {
      "wins": 0,
@@ -250,6 +250,19 @@
   },
   {
    "rank": 17,
+   "name": "CosmicSeal9875 9bcf",
+   "wins": 7,
+   "losses": 12,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 7,
+     "losses": 12
+    }
+   }
+  },
+  {
+   "rank": 18,
    "name": "Mãlaga",
    "wins": 5,
    "losses": 4,
@@ -262,7 +275,7 @@
    }
   },
   {
-   "rank": 18,
+   "rank": 19,
    "name": "Dingus_109",
    "wins": 5,
    "losses": 11,
@@ -275,19 +288,6 @@
     "MT": {
      "wins": 5,
      "losses": 2
-    }
-   }
-  },
-  {
-   "rank": 19,
-   "name": "CosmicSeal9875 9bcf",
-   "wins": 5,
-   "losses": 11,
-   "tier": 0,
-   "worlds": {
-    "MZ": {
-     "wins": 5,
-     "losses": 11
     }
    }
   },
