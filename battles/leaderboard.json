@@ -1,5 +1,5 @@
 {
- "updated": 1793471807,
+ "updated": 1793472460,
  "trainers": 43,
  "worlds": {
   "MZ": "Mesagoza",
@@ -234,7 +234,7 @@
   {
    "rank": 16,
    "name": "ᴊᴠᴅᴇ",
-   "wins": 7,
+   "wins": 8,
    "losses": 2,
    "tier": 0,
    "worlds": {
@@ -243,7 +243,7 @@
      "losses": 1
     },
     "MT": {
-     "wins": 2,
+     "wins": 3,
      "losses": 1
     }
    }
