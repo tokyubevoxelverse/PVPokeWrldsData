@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|2|1793435571|41
+PVPOKE-BATTLES|2|1793435734|42
 1|GoofyLeopard7263 c9d6|51|12|1
 2|Rącooną mätãtã|50|10|1
 3|༺NecroEclipse༻|40|10|0
@@ -26,17 +26,18 @@ PVPOKE-BATTLES|2|1793435571|41
 25|Mãlaga|2|3|0
 26|Snorxtori|2|4|0
 27|Eren dragneel|2|7|0
-28|TheKittyEmpurr|1|1|0
-29|°Maroon-Incubi°|1|1|0
-30|JohntheKeeper87|1|3|0
-31|Prøtø_bīrb|1|4|0
-32|ShadowAinz|0|0|0
-33|ShadowKarma20|0|0|0
-34|ArchetypeB|0|0|0
-35|Kyubiscus|0|1|0
-36|ajthe0|0|1|0
-37|OompaLoopas|0|1|0
-38|Sark Sharper|0|1|0
-39|BarbGoesLooney|0|2|0
-40|XxZombieFanxX|0|2|0
-41|ScriptWizard|0|9|0
+28|puppygirlowo|1|0|0
+29|TheKittyEmpurr|1|1|0
+30|°Maroon-Incubi°|1|1|0
+31|JohntheKeeper87|1|3|0
+32|Prøtø_bīrb|1|4|0
+33|ShadowAinz|0|0|0
+34|ShadowKarma20|0|0|0
+35|ArchetypeB|0|0|0
+36|Kyubiscus|0|1|0
+37|ajthe0|0|1|0
+38|OompaLoopas|0|1|0
+39|Sark Sharper|0|1|0
+40|BarbGoesLooney|0|2|0
+41|XxZombieFanxX|0|2|0
+42|ScriptWizard|0|9|0

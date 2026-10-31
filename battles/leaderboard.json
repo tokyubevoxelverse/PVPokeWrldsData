@@ -1,6 +1,6 @@
 {
- "updated": 1793435571,
- "trainers": 41,
+ "updated": 1793435734,
+ "trainers": 42,
  "worlds": {
   "MZ": "Mesagoza",
   "MT": "The Marine Tube",
@@ -401,6 +401,19 @@
   },
   {
    "rank": 28,
+   "name": "puppygirlowo",
+   "wins": 1,
+   "losses": 0,
+   "tier": 0,
+   "worlds": {
+    "MZ": {
+     "wins": 1,
+     "losses": 0
+    }
+   }
+  },
+  {
+   "rank": 29,
    "name": "TheKittyEmpurr",
    "wins": 1,
    "losses": 1,
@@ -413,7 +426,7 @@
    }
   },
   {
-   "rank": 29,
+   "rank": 30,
    "name": "°Maroon-Incubi°",
    "wins": 1,
    "losses": 1,
@@ -426,7 +439,7 @@
    }
   },
   {
-   "rank": 30,
+   "rank": 31,
    "name": "JohntheKeeper87",
    "wins": 1,
    "losses": 3,
@@ -439,7 +452,7 @@
    }
   },
   {
-   "rank": 31,
+   "rank": 32,
    "name": "Prøtø_bīrb",
    "wins": 1,
    "losses": 4,
@@ -452,7 +465,7 @@
    }
   },
   {
-   "rank": 32,
+   "rank": 33,
    "name": "ShadowAinz",
    "wins": 0,
    "losses": 0,
@@ -465,7 +478,7 @@
    }
   },
   {
-   "rank": 33,
+   "rank": 34,
    "name": "ShadowKarma20",
    "wins": 0,
    "losses": 0,
@@ -478,7 +491,7 @@
    }
   },
   {
-   "rank": 34,
+   "rank": 35,
    "name": "ArchetypeB",
    "wins": 0,
    "losses": 0,
@@ -491,7 +504,7 @@
    }
   },
   {
-   "rank": 35,
+   "rank": 36,
    "name": "Kyubiscus",
    "wins": 0,
    "losses": 1,
@@ -504,7 +517,7 @@
    }
   },
   {
-   "rank": 36,
+   "rank": 37,
    "name": "ajthe0",
    "wins": 0,
    "losses": 1,
@@ -517,7 +530,7 @@
    }
   },
   {
-   "rank": 37,
+   "rank": 38,
    "name": "OompaLoopas",
    "wins": 0,
    "losses": 1,
@@ -530,7 +543,7 @@
    }
   },
   {
-   "rank": 38,
+   "rank": 39,
    "name": "Sark Sharper",
    "wins": 0,
    "losses": 1,
@@ -543,7 +556,7 @@
    }
   },
   {
-   "rank": 39,
+   "rank": 40,
    "name": "BarbGoesLooney",
    "wins": 0,
    "losses": 2,
@@ -556,7 +569,7 @@
    }
   },
   {
-   "rank": 40,
+   "rank": 41,
    "name": "XxZombieFanxX",
    "wins": 0,
    "losses": 2,
@@ -573,7 +586,7 @@
    }
   },
   {
-   "rank": 41,
+   "rank": 42,
    "name": "ScriptWizard",
    "wins": 0,
    "losses": 9,
