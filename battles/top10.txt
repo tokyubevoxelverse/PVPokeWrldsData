@@ -1,4 +1,4 @@
-PVPOKE-BATTLES|1|1793471262|43
+PVPOKE-BATTLES|1|1793471807|43
 1|GoofyLeopard7263 c9d6|57|12|1
 2|Rącooną mätãtã|50|10|1
 3|༺NecroEclipse༻|43|14|0
@@ -6,6 +6,6 @@ PVPOKE-BATTLES|1|1793471262|43
 5|SleepySealxx|32|25|0
 6|Ttv․LimitlessMonster f6eb|24|12|0
 7|ScarsUpload|23|25|0
-8|Raisi|17|9|0
+8|Raisi|18|9|0
 9|連続THEGOODGUY 凶漢|15|7|0
 10|Ghost 6465|14|9|0
