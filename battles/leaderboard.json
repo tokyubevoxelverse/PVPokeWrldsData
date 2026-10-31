@@ -1,5 +1,5 @@
 {
- "updated": 1793445880,
+ "updated": 1793447090,
  "trainers": 43,
  "worlds": {
   "MZ": "Mesagoza",
@@ -178,12 +178,12 @@
   {
    "rank": 12,
    "name": "Stonedgamer55",
-   "wins": 12,
+   "wins": 13,
    "losses": 13,
    "tier": 0,
    "worlds": {
     "MZ": {
-     "wins": 12,
+     "wins": 13,
      "losses": 13
     }
    }
